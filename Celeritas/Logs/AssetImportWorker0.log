@@ -1,0 +1,628 @@
+Using pre-set license
+Built from '2020.3/staging' branch; Version is '2020.3.4f1 (0abb6314276a) revision 703331'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Home; OS build 19042.985; Version 2009; 64bit' Language: 'en' Physical Memory: 16301 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2020.3.4f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+C:/Users/srdja/Desktop/Development/Game Development/Celeritas/Celeritas
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+60253
+Successfully changed project path to: C:/Users/srdja/Desktop/Development/Game Development/Celeritas/Celeritas
+C:/Users/srdja/Desktop/Development/Game Development/Celeritas/Celeritas
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 23.50 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.4f1 (0abb6314276a)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.4f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/srdja/Desktop/Development/Game Development/Celeritas/Celeritas/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 1650 (ID=0x1f0a)
+    Vendor:   
+    VRAM:     3961 MB
+    Driver:   27.21.14.5671
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.3.4f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.3.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.3.4f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56316
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.4f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.001521 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 24.75 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.498 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.000554 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.24 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.648 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.03 seconds
+Refreshing native plugins compatible for Editor in 0.38 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1119 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 72.9 MB.
+System memory in use after: 72.9 MB.
+
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 1581.
+Total: 1.864600 ms (FindLiveObjects: 0.216400 ms CreateObjectMapping: 0.086500 ms MarkObjects: 1.455000 ms  DeleteObjects: 0.105900 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/Other/Buildings/low poly medieval buildings/Materials/thatch_ao.tga
+  artifactKey: Guid(92536ed621055fa4097e5539d785fa48) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Other/Buildings/low poly medieval buildings/Materials/thatch_ao.tga using Guid(92536ed621055fa4097e5539d785fa48) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '01749d5b0105cd2f7a9a30ba02c51824') in 0.048271 seconds
+  Import took 0.049909 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000168 seconds.
+  path: Assets/Other/Weapons/Dagger/Asset/Textures/512/steeldagger_512_Normal.png
+  artifactKey: Guid(23e19410c80d3ff418ed513d33134069) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Other/Weapons/Dagger/Asset/Textures/512/steeldagger_512_Normal.png using Guid(23e19410c80d3ff418ed513d33134069) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '46ad9ac044ff9308b67df0dd90c083eb') in 0.036903 seconds
+  Import took 0.038453 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000184 seconds.
+  path: Assets/Other/Buildings/Medieval Structure Kit/Textures/Buildings/TexturesCom_Concrete1_1.2x1.2_1K_normal.tif
+  artifactKey: Guid(742557663c9194e5494c68507e11577a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Other/Buildings/Medieval Structure Kit/Textures/Buildings/TexturesCom_Concrete1_1.2x1.2_1K_normal.tif using Guid(742557663c9194e5494c68507e11577a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '71210ea60edd6bdc3745b1489231e7ef') in 0.014204 seconds
+  Import took 0.015775 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000171 seconds.
+  path: Assets/Other/UI/PlayerInterface/Icons/skill_icon_04.png
+  artifactKey: Guid(7092324b93851a14c858530cca4a6b26) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Other/UI/PlayerInterface/Icons/skill_icon_04.png using Guid(7092324b93851a14c858530cca4a6b26) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e72b391c07aa7bdc307d35a434bd58c5') in 0.030956 seconds
+  Import took 0.032660 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000184 seconds.
+  path: Assets/Other/Buildings/Medieval Structure Kit/Textures/Buildings/TexturesCom_WoodPlanksBare0017_S.png
+  artifactKey: Guid(34dfd2d1a55f04dd9863231857694e5d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Other/Buildings/Medieval Structure Kit/Textures/Buildings/TexturesCom_WoodPlanksBare0017_S.png using Guid(34dfd2d1a55f04dd9863231857694e5d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6c6bf71d24ece6b4483ae6d844486345') in 0.011206 seconds
+  Import took 0.012757 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000183 seconds.
+  path: Assets/Other/Buildings/Medieval Structure Kit/Textures/Buildings/TexturesCom_WoodPlanksOld0250_3_seamless_S 1.png
+  artifactKey: Guid(4aa4cd884f0f54e84afd989181648a6e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Other/Buildings/Medieval Structure Kit/Textures/Buildings/TexturesCom_WoodPlanksOld0250_3_seamless_S 1.png using Guid(4aa4cd884f0f54e84afd989181648a6e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '04b35a00134f7fd6a491bcf7f4fbcd5c') in 0.015166 seconds
+  Import took 0.016841 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000222 seconds.
+  path: Assets/Other/UI/PlayerInterface/Gui_parts/warrior_silhouette_man.png
+  artifactKey: Guid(cc8e2be9532fbc543af51c6932181466) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Other/UI/PlayerInterface/Gui_parts/warrior_silhouette_man.png using Guid(cc8e2be9532fbc543af51c6932181466) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6e540627143d398ac417c018af8e8f6c') in 0.029374 seconds
+  Import took 0.031025 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000158 seconds.
+  path: Assets/Other/Weapons/Dagger/Asset/Textures/1024/steeldagger_1024_MetallicSmoothness.png
+  artifactKey: Guid(034cf917fe99b5344bc2192d34a1768a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Other/Weapons/Dagger/Asset/Textures/1024/steeldagger_1024_MetallicSmoothness.png using Guid(034cf917fe99b5344bc2192d34a1768a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e1c5c85e2058f0e501647fea121a634d') in 0.013099 seconds
+  Import took 0.014856 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000161 seconds.
+  path: Assets/Other/Buildings/Medieval Structure Kit/Textures/Metal/TexturesCom_Metal_SteelRough_1K_albedo.tif
+  artifactKey: Guid(9285fd734d21a49ada5d4c19b3cf6e98) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Other/Buildings/Medieval Structure Kit/Textures/Metal/TexturesCom_Metal_SteelRough_1K_albedo.tif using Guid(9285fd734d21a49ada5d4c19b3cf6e98) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '863b5d4119d67d780b9279ba77091021') in 0.015017 seconds
+  Import took 0.016742 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000218 seconds.
+  path: Assets/Other/UI/PlayerInterface/Gui_parts/warrior_silhouette_woman.png
+  artifactKey: Guid(acf24f91ea86d2140b7efa39f2011f06) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Other/UI/PlayerInterface/Gui_parts/warrior_silhouette_woman.png using Guid(acf24f91ea86d2140b7efa39f2011f06) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '53277386e720e1e89cf810027b3dd8e0') in 0.028606 seconds
+  Import took 0.030187 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000119 seconds.
+  path: Assets/Other/Weapons/Other/meshes/stick/stick_texture.png
+  artifactKey: Guid(e2d08b2ccfa17594bb672183e7dcd066) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Other/Weapons/Other/meshes/stick/stick_texture.png using Guid(e2d08b2ccfa17594bb672183e7dcd066) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b7009459c0e992895e041fc0b6a0105f') in 0.012855 seconds
+  Import took 0.014501 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000126 seconds.
+  path: Assets/Other/Weapons/Dagger/Asset/Textures/2048/steeldagger_2048_MetallicSmoothness.png
+  artifactKey: Guid(92eddb21bec63f44aab00dcefe92eb8c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Other/Weapons/Dagger/Asset/Textures/2048/steeldagger_2048_MetallicSmoothness.png using Guid(92eddb21bec63f44aab00dcefe92eb8c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e725c510d0e2163bca914260c6bab1c7') in 0.020426 seconds
+  Import took 0.022099 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000130 seconds.
+  path: Assets/Other/Buildings/Medieval Structure Kit/Textures/Metal/TexturesCom_Metal_SteelPitted_1K_albedo.tif
+  artifactKey: Guid(95d7b94e488e044fda66f3348f68ba78) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Other/Buildings/Medieval Structure Kit/Textures/Metal/TexturesCom_Metal_SteelPitted_1K_albedo.tif using Guid(95d7b94e488e044fda66f3348f68ba78) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a9c0cde5001583ec3ec37376e285ec3d') in 0.007999 seconds
+  Import took 0.009687 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000138 seconds.
+  path: Assets/Other/Buildings/Medieval Structure Kit/Textures/Buildings/TexturesCom_WoodPlanksOld0250_3_seamless_S.png
+  artifactKey: Guid(84893542ef2c04c5f8aaa439e06c152d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Other/Buildings/Medieval Structure Kit/Textures/Buildings/TexturesCom_WoodPlanksOld0250_3_seamless_S.png using Guid(84893542ef2c04c5f8aaa439e06c152d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '93e9f3fee4a930b712aed20f37bdd87f') in 0.009142 seconds
+  Import took 0.010841 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000175 seconds.
+  path: Assets/Other/Enviroment/Forest/Fantasy Forest Environment Free Sample/Textures/tree_branches.png
+  artifactKey: Guid(1d49d1e2d8a2b97478e3e0355dbf3a07) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Other/Enviroment/Forest/Fantasy Forest Environment Free Sample/Textures/tree_branches.png using Guid(1d49d1e2d8a2b97478e3e0355dbf3a07) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '464043deac03ed9626377a427881cef2') in 0.093801 seconds
+  Import took 0.095346 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000177 seconds.
+  path: Assets/Other/Enviroment/Forest/Fantasy Forest Environment Free Sample/Scenes/New Terrain.asset
+  artifactKey: Guid(02bc0e2176f6a4e4ea3faf0c622664cf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Other/Enviroment/Forest/Fantasy Forest Environment Free Sample/Scenes/New Terrain.asset using Guid(02bc0e2176f6a4e4ea3faf0c622664cf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0051b5245fdb4c84d2bf3cc3caec88f8') in 0.068135 seconds
+  Import took 0.069982 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000216 seconds.
+  path: Assets/Other/Weapons/Other/meshes/oneHandedSword/sword1.png
+  artifactKey: Guid(496a4470fdddeba4cb1d22ce1deb5cb3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Other/Weapons/Other/meshes/oneHandedSword/sword1.png using Guid(496a4470fdddeba4cb1d22ce1deb5cb3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd16c52dfc54a2c8ecd4689b5eae2afab') in 0.008415 seconds
+  Import took 0.010490 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000128 seconds.
+  path: Assets/Other/Buildings/low poly medieval buildings/Materials/thatch_albedo.tga
+  artifactKey: Guid(6c60e6b267da2d34a86ebab12c12907e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Other/Buildings/low poly medieval buildings/Materials/thatch_albedo.tga using Guid(6c60e6b267da2d34a86ebab12c12907e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5d3354fe1c82fd7f51a46c4434da2dbb') in 0.009727 seconds
+  Import took 0.011301 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000127 seconds.
+  path: Assets/Other/Weapons/Other/meshes/twoHandedStaff/twoHandedStaff_texture.png
+  artifactKey: Guid(aa29e051877664347a5c7af848780b0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Other/Weapons/Other/meshes/twoHandedStaff/twoHandedStaff_texture.png using Guid(aa29e051877664347a5c7af848780b0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a6e775c501fdf744c86e8dc51841c903') in 0.007884 seconds
+  Import took 0.009526 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000153 seconds.
+  path: Assets/Other/Buildings/Medieval Structure Kit/Textures/Buildings/WindowsPNG.png
+  artifactKey: Guid(acc08b269756db94ebf2f77662f41741) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Other/Buildings/Medieval Structure Kit/Textures/Buildings/WindowsPNG.png using Guid(acc08b269756db94ebf2f77662f41741) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f8b6e93dce53ecd7eab0a443b8718684') in 0.012784 seconds
+  Import took 0.014446 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000154 seconds.
+  path: Assets/Other/Buildings/Medieval Structure Kit/Textures/Buildings/TexturesCom_WoodPlanksOld0282_2_seamless_S.png
+  artifactKey: Guid(d5a12f923f34f41e18f7cb25e7c51af4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Other/Buildings/Medieval Structure Kit/Textures/Buildings/TexturesCom_WoodPlanksOld0282_2_seamless_S.png using Guid(d5a12f923f34f41e18f7cb25e7c51af4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'adea6e097becbaefd6c55b82cdb725ea') in 0.008252 seconds
+  Import took 0.009846 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000192 seconds.
+  path: Assets/Other/Buildings/Medieval Structure Kit/Textures/Buildings/Wood1Vert 1.png
+  artifactKey: Guid(62b48e0f434105845a5934c6803c2df8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Other/Buildings/Medieval Structure Kit/Textures/Buildings/Wood1Vert 1.png using Guid(62b48e0f434105845a5934c6803c2df8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '170de792feb98dc4dcfbf5db24162390') in 0.008860 seconds
+  Import took 0.010491 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000144 seconds.
+  path: Assets/Other/UI/PlayerInterface/Icons/skill_icon_03_nobg.png
+  artifactKey: Guid(cf6478ef684ce7f4c830edba147c7607) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Other/UI/PlayerInterface/Icons/skill_icon_03_nobg.png using Guid(cf6478ef684ce7f4c830edba147c7607) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9c3c1ce9360ded824ab9a66a217af301') in 0.011423 seconds
+  Import took 0.012963 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000204 seconds.
+  path: Assets/Other/Weapons/Dagger/Asset/Textures/1024/steeldagger_1024_AlbedoTransparency.png
+  artifactKey: Guid(b5f741d2b9cddd342b07cab73156ef78) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Other/Weapons/Dagger/Asset/Textures/1024/steeldagger_1024_AlbedoTransparency.png using Guid(b5f741d2b9cddd342b07cab73156ef78) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1a7843bd076780b3c5d62419e5187f62') in 0.008218 seconds
+  Import took 0.009772 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000184 seconds.
+  path: Assets/Other/Buildings/Medieval house/Textures & Materials/wood.png
+  artifactKey: Guid(4a9a54f3b6b90ae42a65cd18ff38d26f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Other/Buildings/Medieval house/Textures & Materials/wood.png using Guid(4a9a54f3b6b90ae42a65cd18ff38d26f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b5fa4c770639da0ba90aa8730e73f18c') in 0.009180 seconds
+  Import took 0.010772 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000162 seconds.
+  path: Assets/Other/Buildings/Medieval Structure Kit/Textures/Buildings/Wood1Vert.png
+  artifactKey: Guid(5799d509859b1594eaffe4b018909a23) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Other/Buildings/Medieval Structure Kit/Textures/Buildings/Wood1Vert.png using Guid(5799d509859b1594eaffe4b018909a23) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c71a3a596abdb3364e0f992682667aa7') in 0.009535 seconds
+  Import took 0.011297 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000132 seconds.
+  path: Assets/Other/Weapons/Dagger/Asset/Textures/2048/steeldagger_2048_AlbedoTransparency.png
+  artifactKey: Guid(6c569142b86eb5241bd8c561d579fd8f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Other/Weapons/Dagger/Asset/Textures/2048/steeldagger_2048_AlbedoTransparency.png using Guid(6c569142b86eb5241bd8c561d579fd8f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c78b9079ed1f6df951dbe25bdc80aa80') in 0.010156 seconds
+  Import took 0.012096 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000186 seconds.
+  path: Assets/Other/Buildings/Medieval Structure Kit/Textures/Buildings/stoneroadPNG 1.png
+  artifactKey: Guid(2ce90480619331242ac824db298aaa2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Other/Buildings/Medieval Structure Kit/Textures/Buildings/stoneroadPNG 1.png using Guid(2ce90480619331242ac824db298aaa2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '31e5b49fe3f5184a86c486abc00450ae') in 0.009222 seconds
+  Import took 0.010913 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000215 seconds.
+  path: Assets/Other/Weapons/Dagger/Asset/Textures/4096/steeldagger_4096_AlbedoTransparency.png
+  artifactKey: Guid(0d0188573b9452849a262ccb74531056) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Other/Weapons/Dagger/Asset/Textures/4096/steeldagger_4096_AlbedoTransparency.png using Guid(0d0188573b9452849a262ccb74531056) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e87824d1114c39eb614a9afb7901e14f') in 0.017836 seconds
+  Import took 0.019534 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000217 seconds.
+  path: Assets/Other/UI/PlayerInterface/Icons/stoune_icon.png
+  artifactKey: Guid(108ca3e7dda90d945b0914bf9259ec94) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Other/UI/PlayerInterface/Icons/stoune_icon.png using Guid(108ca3e7dda90d945b0914bf9259ec94) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8c9c971effafaef7774d5938c9409acc') in 0.009808 seconds
+  Import took 0.011418 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000175 seconds.
+  path: Assets/Other/Weapons/Dagger/Asset/Textures/512/steeldagger_512_MetallicSmoothness.png
+  artifactKey: Guid(1c88945e65947784da6ae7af91526cc2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Other/Weapons/Dagger/Asset/Textures/512/steeldagger_512_MetallicSmoothness.png using Guid(1c88945e65947784da6ae7af91526cc2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '221d90ddfc2188eb41420ddf029d613c') in 0.008552 seconds
+  Import took 0.010182 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000121 seconds.
+  path: Assets/Other/Buildings/Medieval Structure Kit/Textures/Buildings/TexturesCom_WoodPlanksBare0017_S 1.png
+  artifactKey: Guid(da0360ff55afb4d058abb30397372336) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Other/Buildings/Medieval Structure Kit/Textures/Buildings/TexturesCom_WoodPlanksBare0017_S 1.png using Guid(da0360ff55afb4d058abb30397372336) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd64737d083ef4f086422e22105f5f58c') in 0.008839 seconds
+  Import took 0.010462 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000145 seconds.
+  path: Assets/Other/Buildings/Medieval house/Textures & Materials/window.png
+  artifactKey: Guid(00bbceed53984f24ba4ce88208e91f14) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Other/Buildings/Medieval house/Textures & Materials/window.png using Guid(00bbceed53984f24ba4ce88208e91f14) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '62989730252fd372d5b4dc3104d07199') in 0.008413 seconds
+  Import took 0.009960 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000147 seconds.
+  path: Assets/Other/Buildings/low poly medieval buildings/Materials/wood_albedo.tga
+  artifactKey: Guid(e2ff4fd49718da9458f725421726c7ec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Other/Buildings/low poly medieval buildings/Materials/wood_albedo.tga using Guid(e2ff4fd49718da9458f725421726c7ec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1e4e2fcb7ef99c9401777abd142e48d1') in 0.008123 seconds
+  Import took 0.009718 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000148 seconds.
+  path: Assets/Other/Buildings/Medieval Structure Kit/Textures/Metal/TexturesCom_Metal_SteelPitted_1K_albedo 1.tif
+  artifactKey: Guid(65df6175fdd32412784284192df99c93) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Other/Buildings/Medieval Structure Kit/Textures/Metal/TexturesCom_Metal_SteelPitted_1K_albedo 1.tif using Guid(65df6175fdd32412784284192df99c93) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e9705e2e13e19b0913ffee08df37bae4') in 0.009665 seconds
+  Import took 0.011255 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000154 seconds.
+  path: Assets/Other/Buildings/Medieval house/Textures & Materials/wall_NRM.png
+  artifactKey: Guid(4532db2545a390d4dae9ebf7edf4ca49) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Other/Buildings/Medieval house/Textures & Materials/wall_NRM.png using Guid(4532db2545a390d4dae9ebf7edf4ca49) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '16cd87005a1b3dac3a43482d3375094d') in 0.009374 seconds
+  Import took 0.010938 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000167 seconds.
+  path: Assets/Other/Buildings/Medieval Structure Kit/Textures/Buildings/TexturesCom_Concrete1_1.2x1.2_1K_albedo.tif
+  artifactKey: Guid(527e79fbe24cb4511a718dfcba592fa3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Other/Buildings/Medieval Structure Kit/Textures/Buildings/TexturesCom_Concrete1_1.2x1.2_1K_albedo.tif using Guid(527e79fbe24cb4511a718dfcba592fa3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9396b87209911b92dc35a2a7187bfd13') in 0.008298 seconds
+  Import took 0.009878 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000117 seconds.
+  path: Assets/Other/Buildings/low poly medieval buildings/Materials/wood_metalness_roughness.tga
+  artifactKey: Guid(48a80daa52b95ce4c8825a022fcdd4d6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Other/Buildings/low poly medieval buildings/Materials/wood_metalness_roughness.tga using Guid(48a80daa52b95ce4c8825a022fcdd4d6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b07ea774c995aa00d1a7bbff310d0613') in 0.009136 seconds
+  Import took 0.010851 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000124 seconds.
+  path: Assets/Other/Weapons/Dagger/Asset/Textures/1024/steeldagger_1024_Normal.png
+  artifactKey: Guid(f39e0a2aed20b6e4eafd0a8a8a4c9471) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Other/Weapons/Dagger/Asset/Textures/1024/steeldagger_1024_Normal.png using Guid(f39e0a2aed20b6e4eafd0a8a8a4c9471) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ce7a3d1768ae45e69f38ae27821f928e') in 0.009241 seconds
+  Import took 0.010855 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000116 seconds.
+  path: Assets/Other/Buildings/Medieval house/Textures & Materials/window_NRM.png
+  artifactKey: Guid(105ab64cb14e74b4291c17b2324a770e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Other/Buildings/Medieval house/Textures & Materials/window_NRM.png using Guid(105ab64cb14e74b4291c17b2324a770e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '17700cdc4febe7b653eac3e982950224') in 0.008685 seconds
+  Import took 0.010323 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000151 seconds.
+  path: Assets/Other/Weapons/Dagger/Asset/Textures/4096/steeldagger_4096_MetallicSmoothness.png
+  artifactKey: Guid(db5b8c8881b3e5241a23e3e42ab8768e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Other/Weapons/Dagger/Asset/Textures/4096/steeldagger_4096_MetallicSmoothness.png using Guid(db5b8c8881b3e5241a23e3e42ab8768e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ec6c35c14a0a470559d1530c7eb32188') in 0.024339 seconds
+  Import took 0.026968 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000134 seconds.
+  path: Assets/Other/UI/PlayerInterface/Icons/skill_icon_04_nobg.png
+  artifactKey: Guid(9895f5f95566ceb47bb239149d90cb44) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Other/UI/PlayerInterface/Icons/skill_icon_04_nobg.png using Guid(9895f5f95566ceb47bb239149d90cb44) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2234c7ec60b7c8dc278a8d0fa4e4c8bb') in 0.011365 seconds
+  Import took 0.012995 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000127 seconds.
+  path: Assets/Other/Buildings/Medieval Structure Kit/Textures/Buildings/stoneroadPNG.png
+  artifactKey: Guid(8667e8b850def0445ac74b8f8c91feca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Other/Buildings/Medieval Structure Kit/Textures/Buildings/stoneroadPNG.png using Guid(8667e8b850def0445ac74b8f8c91feca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cbf123d9c7d5636899dfe06431a542fa') in 0.008780 seconds
+  Import took 0.010384 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000158 seconds.
+  path: Assets/Other/UI/PlayerInterface/Icons/weapon_icon.png
+  artifactKey: Guid(719c2201c2f5f6c4aafffaeb5abdf5f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Other/UI/PlayerInterface/Icons/weapon_icon.png using Guid(719c2201c2f5f6c4aafffaeb5abdf5f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '765487434d00f93f67426bbf8fde0c00') in 0.010806 seconds
+  Import took 0.012384 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000154 seconds.
+  path: Assets/Other/Buildings/Medieval Structure Kit/Textures/Metal/TexturesCom_Metal_Medieval_512_albedo.tif
+  artifactKey: Guid(c55b7592fd607437c855848a70a4021d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Other/Buildings/Medieval Structure Kit/Textures/Metal/TexturesCom_Metal_Medieval_512_albedo.tif using Guid(c55b7592fd607437c855848a70a4021d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bff32158b6715b9e6285b265c142311e') in 0.008247 seconds
+  Import took 0.009827 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000163 seconds.
+  path: Assets/Other/Weapons/Dagger/Asset/Textures/4096/steeldagger_4096_Normal.png
+  artifactKey: Guid(d232c6a82fb62744292c329466fc7e4f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Other/Weapons/Dagger/Asset/Textures/4096/steeldagger_4096_Normal.png using Guid(d232c6a82fb62744292c329466fc7e4f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '356819c57aba1818ae355a2a103ae57d') in 0.020827 seconds
+  Import took 0.023560 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000146 seconds.
+  path: Assets/Other/Buildings/low poly medieval buildings/Materials/thatch_normals.tga
+  artifactKey: Guid(0228dfb3afd6dde4e919a508b50cca4c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Other/Buildings/low poly medieval buildings/Materials/thatch_normals.tga using Guid(0228dfb3afd6dde4e919a508b50cca4c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'adee061b761feb83120dcd083b6a12e9') in 0.009009 seconds
+  Import took 0.010625 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000178 seconds.
+  path: Assets/Other/Buildings/Medieval Structure Kit/Textures/Metal/TexturesCom_Metal_Medieval_512_albedo 1.tif
+  artifactKey: Guid(3d49c8210b42f42ef8e0d0a687b7b158) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Other/Buildings/Medieval Structure Kit/Textures/Metal/TexturesCom_Metal_Medieval_512_albedo 1.tif using Guid(3d49c8210b42f42ef8e0d0a687b7b158) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7e7cd9e43f0799853b88d00b95efef6f') in 0.008492 seconds
+  Import took 0.010081 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000164 seconds.
+  path: Assets/Other/Buildings/Medieval house/Textures & Materials/wood_NRM.png
+  artifactKey: Guid(db249e623eb08414f9b8c946ebe2c8fb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Other/Buildings/Medieval house/Textures & Materials/wood_NRM.png using Guid(db249e623eb08414f9b8c946ebe2c8fb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3b33da4495bdb9b79cb1c03c6afae1e3') in 0.008846 seconds
+  Import took 0.010743 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000124 seconds.
+  path: Assets/Other/UI/PlayerInterface/Icons/skill_icon_03.png
+  artifactKey: Guid(8a5f9829a049c704fa992203bfc451f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Other/UI/PlayerInterface/Icons/skill_icon_03.png using Guid(8a5f9829a049c704fa992203bfc451f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a2b9d85711322348f22e73f328e1dc92') in 0.012391 seconds
+  Import took 0.014034 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000144 seconds.
+  path: Assets/Other/Buildings/Medieval Structure Kit/Textures/Metal/TexturesCom_Metal_SteelRough_1K_albedo 1.tif
+  artifactKey: Guid(e0051a5ac47d64f18b80c54224cea644) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Other/Buildings/Medieval Structure Kit/Textures/Metal/TexturesCom_Metal_SteelRough_1K_albedo 1.tif using Guid(e0051a5ac47d64f18b80c54224cea644) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd8ee92b1ec174141ce4c42ea836ba37e') in 0.008883 seconds
+  Import took 0.010499 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000207 seconds.
+  path: Assets/Other/Buildings/Medieval Structure Kit/Textures/Buildings/Windows 2PNG.png
+  artifactKey: Guid(b3aa56c8844b38e4ab290da78fdcecb0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Other/Buildings/Medieval Structure Kit/Textures/Buildings/Windows 2PNG.png using Guid(b3aa56c8844b38e4ab290da78fdcecb0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '604d6dabd82b50b0520650dcfa2699d1') in 0.012542 seconds
+  Import took 0.014187 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000177 seconds.
+  path: Assets/Other/Buildings/Medieval house/Textures & Materials/wall_4.png
+  artifactKey: Guid(b31c474e6c48c8340af2c985bbee6bb7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Other/Buildings/Medieval house/Textures & Materials/wall_4.png using Guid(b31c474e6c48c8340af2c985bbee6bb7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd3903e0d0bc3f02f5509fe4e715828ae') in 0.009059 seconds
+  Import took 0.011006 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000156 seconds.
+  path: Assets/Other/Buildings/low poly medieval buildings/Materials/wood_normals.tga
+  artifactKey: Guid(8d65629773ffa494baf167737579dc8c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Other/Buildings/low poly medieval buildings/Materials/wood_normals.tga using Guid(8d65629773ffa494baf167737579dc8c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd20b2d97af335e58036d1fa91d41af66') in 0.009765 seconds
+  Import took 0.011862 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000175 seconds.
+  path: Assets/Other/Weapons/Dagger/Asset/Textures/2048/steeldagger_2048_Normal.png
+  artifactKey: Guid(aed6d9366fd55a849ac8abea152e4dd7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Other/Weapons/Dagger/Asset/Textures/2048/steeldagger_2048_Normal.png using Guid(aed6d9366fd55a849ac8abea152e4dd7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '12b5b546207a9aafe7d7286e6ce111e9') in 0.009894 seconds
+  Import took 0.011527 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000121 seconds.
+  path: Assets/Other/Buildings/Medieval Structure Kit/Textures/Buildings/TexturesCom_WoodPlanksOld0282_2_seamless_S 1.png
+  artifactKey: Guid(f82fdcb69f2924cc9844520fe45aeef0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Other/Buildings/Medieval Structure Kit/Textures/Buildings/TexturesCom_WoodPlanksOld0282_2_seamless_S 1.png using Guid(f82fdcb69f2924cc9844520fe45aeef0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '58676edbb4f779b3dbfc4df320e50682') in 0.010118 seconds
+  Import took 0.011727 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000127 seconds.
+  path: Assets/Other/Weapons/Dagger/Asset/Textures/512/steeldagger_512_AlbedoTransparency.png
+  artifactKey: Guid(113aea02acce62445a840ba7613b8d15) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Other/Weapons/Dagger/Asset/Textures/512/steeldagger_512_AlbedoTransparency.png using Guid(113aea02acce62445a840ba7613b8d15) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '67f0f22b0eeac4e092db794811166209') in 0.010498 seconds
+  Import took 0.012292 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 44.020473 seconds.
+  path: Assets/Other
+  artifactKey: Guid(9472661a36694954cbb455d1caf4541f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Other using Guid(9472661a36694954cbb455d1caf4541f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5ff74195abcaf5f063fba6c0545f46df') in 0.006447 seconds
+  Import took 0.008614 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.936908 seconds.
+  path: Assets/Other/Enviroment
+  artifactKey: Guid(15eaa7a536bb06d4b921eafe7cc7a3a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Other/Enviroment using Guid(15eaa7a536bb06d4b921eafe7cc7a3a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fcba6477892be5510b3695dd55159582') in 0.006235 seconds
+  Import took 0.008280 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.017767 seconds.
+  path: Assets/Other/Enviroment/Forest
+  artifactKey: Guid(39631e01a0fca754cb95d1db73155570) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Other/Enviroment/Forest using Guid(39631e01a0fca754cb95d1db73155570) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '873a6276eb89712c0f6b418267c42597') in 0.005399 seconds
+  Import took 0.007246 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.052517 seconds.
+  path: Assets/Other/Enviroment/Forest/Fantasy Forest Environment Free Sample
+  artifactKey: Guid(fe0dcdd3800496747ab6b17092139f97) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Other/Enviroment/Forest/Fantasy Forest Environment Free Sample using Guid(fe0dcdd3800496747ab6b17092139f97) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '59db1f2161877cf0462131643313180d') in 0.005701 seconds
+  Import took 0.007715 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 11.229300 seconds.
+  path: Assets/Other/Enviroment/Forest/Fantasy Forest Environment Free Sample/Meshes
+  artifactKey: Guid(eaaaee0f57e935647bce706f4ad8f73b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Other/Enviroment/Forest/Fantasy Forest Environment Free Sample/Meshes using Guid(eaaaee0f57e935647bce706f4ad8f73b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c8b6c44e7139fe7776a2b11dea8b0b4f') in 0.005569 seconds
+  Import took 0.007266 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 59.465858 seconds.
+  path: Assets/Other/Enviroment/Forest/Fantasy Forest Environment Free Sample/Textures
+  artifactKey: Guid(9fcce063c50b58049b8c0bb17dc31ac4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Other/Enviroment/Forest/Fantasy Forest Environment Free Sample/Textures using Guid(9fcce063c50b58049b8c0bb17dc31ac4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f531fdcff99beb9006250533bd4b6523') in 0.005645 seconds
+  Import took 0.007635 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000844 seconds.
+  path: Assets/Other/Enviroment/Forest/Fantasy Forest Environment Free Sample/Textures
+  artifactKey: Guid(9fcce063c50b58049b8c0bb17dc31ac4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Other/Enviroment/Forest/Fantasy Forest Environment Free Sample/Textures using Guid(9fcce063c50b58049b8c0bb17dc31ac4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f531fdcff99beb9006250533bd4b6523') in 0.001650 seconds
+  Import took 0.003220 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 177.733080 seconds.
+  path: Assets/Other/Enviroment/Forest/Fantasy Forest Environment Free Sample/Materials/bark01_bottom.mat
+  artifactKey: Guid(7e56b6e37c078ed47b6d0e9d9249ea9f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Other/Enviroment/Forest/Fantasy Forest Environment Free Sample/Materials/bark01_bottom.mat using Guid(7e56b6e37c078ed47b6d0e9d9249ea9f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd43c650eb97e8f9646822922c8b19307') in 0.446348 seconds
+  Import took 0.448411 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000211 seconds.
+  path: Assets/Other/Enviroment/Forest/Fantasy Forest Environment Free Sample/Materials/dirt01.mat
+  artifactKey: Guid(02f626fd2f11216458890862c5864d34) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Other/Enviroment/Forest/Fantasy Forest Environment Free Sample/Materials/dirt01.mat using Guid(02f626fd2f11216458890862c5864d34) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a15e32414b7250302013864d41055d59') in 0.093300 seconds
+  Import took 0.094852 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000184 seconds.
+  path: Assets/Other/Enviroment/Forest/Fantasy Forest Environment Free Sample/Materials/tree_branches.mat
+  artifactKey: Guid(16a185093c7e02d40a49265c23c74417) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Other/Enviroment/Forest/Fantasy Forest Environment Free Sample/Materials/tree_branches.mat using Guid(16a185093c7e02d40a49265c23c74417) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7a1c6cfaa4f0f4baf28b72715c02c3d0') in 0.061448 seconds
+  Import took 0.062998 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000231 seconds.
+  path: Assets/Other/Enviroment/Forest/Fantasy Forest Environment Free Sample/Materials/grassmesh.mat
+  artifactKey: Guid(0666ed421e3d1f146a986f726e7354c1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Other/Enviroment/Forest/Fantasy Forest Environment Free Sample/Materials/grassmesh.mat using Guid(0666ed421e3d1f146a986f726e7354c1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '05e1e2d92e816326cd6c05a97f4b1a66') in 0.010624 seconds
+  Import took 0.012418 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000207 seconds.
+  path: Assets/Other/Enviroment/Forest/Fantasy Forest Environment Free Sample/Materials/skyMaterial.mat
+  artifactKey: Guid(cb20c710b0721ef4d88cabbec2aa4da7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Other/Enviroment/Forest/Fantasy Forest Environment Free Sample/Materials/skyMaterial.mat using Guid(cb20c710b0721ef4d88cabbec2aa4da7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7ee710eaeaca38e2e7989a712028c829') in 0.086427 seconds
+  Import took 0.088068 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000239 seconds.
+  path: Assets/Other/Enviroment/Forest/Fantasy Forest Environment Free Sample/Materials/grass01.mat
+  artifactKey: Guid(40e69315dc8bd0b45be8bf7143248fba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Other/Enviroment/Forest/Fantasy Forest Environment Free Sample/Materials/grass01.mat using Guid(40e69315dc8bd0b45be8bf7143248fba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9bd8c9d0fbc2776efe8ab81be7b477f5') in 0.009125 seconds
+  Import took 0.010715 seconds .
+

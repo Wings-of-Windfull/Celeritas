@@ -1,0 +1,1455 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 61
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ffe70aba2e7074048aca5de573b64a59, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  SimpleSelectedItems:
+    m_Keys:
+    - Assets/Main.meta
+    - Assets/Main/Scenes.meta
+    - Assets/Main/Scenes/ElwerinForest.unity
+    - Assets/Main/Scenes/ElwerinForest.unity.meta
+    - Assets/Other.meta
+    - Assets/Other/Buildings.meta
+    - Assets/Other/Buildings/Medieval Structure Kit.meta
+    - Assets/Other/Buildings/Medieval Structure Kit/FBXModels.meta
+    - Assets/Other/Buildings/Medieval Structure Kit/FBXModels/Buildings.meta
+    - Assets/Other/Buildings/Medieval Structure Kit/FBXModels/Buildings/AngleSupport.fbx
+    - Assets/Other/Buildings/Medieval Structure Kit/FBXModels/Buildings/AngleSupport.fbx.meta
+    - Assets/Other/Buildings/Medieval Structure Kit/FBXModels/Buildings/ArchDoor.fbx
+    - Assets/Other/Buildings/Medieval Structure Kit/FBXModels/Buildings/ArchDoor.fbx.meta
+    - Assets/Other/Buildings/Medieval Structure Kit/FBXModels/Buildings/ArchDoorway.fbx
+    - Assets/Other/Buildings/Medieval Structure Kit/FBXModels/Buildings/ArchDoorway.fbx.meta
+    - Assets/Other/Buildings/Medieval Structure Kit/FBXModels/Buildings/ArchFiller.fbx
+    - Assets/Other/Buildings/Medieval Structure Kit/FBXModels/Buildings/ArchFiller.fbx.meta
+    - Assets/Other/Buildings/Medieval Structure Kit/FBXModels/Buildings/BayRoof.fbx
+    - Assets/Other/Buildings/Medieval Structure Kit/FBXModels/Buildings/BayRoof.fbx.meta
+    - Assets/Other/Buildings/Medieval Structure Kit/FBXModels/Buildings/Board.fbx
+    - Assets/Other/Buildings/Medieval Structure Kit/FBXModels/Buildings/Board.fbx.meta
+    - Assets/Other/Buildings/Medieval Structure Kit/FBXModels/Buildings/Board2.fbx
+    - Assets/Other/Buildings/Medieval Structure Kit/FBXModels/Buildings/Board2.fbx.meta
+    - Assets/Other/Buildings/Medieval Structure Kit/FBXModels/Buildings/CenterWindowRoof
+      1.fbx
+    - Assets/Other/Buildings/Medieval Structure Kit/FBXModels/Buildings/CenterWindowRoof
+      1.fbx.meta
+    - Assets/Other/Buildings/Medieval Structure Kit/FBXModels/Buildings/ConcreteStep.fbx
+    - Assets/Other/Buildings/Medieval Structure Kit/FBXModels/Buildings/ConcreteStep.fbx.meta
+    - Assets/Other/Buildings/Medieval Structure Kit/FBXModels/Buildings/CornerFoundation.fbx
+    - Assets/Other/Buildings/Medieval Structure Kit/FBXModels/Buildings/CornerFoundation.fbx.meta
+    - Assets/Other/Buildings/Medieval Structure Kit/FBXModels/Buildings/CurvedSupport.fbx
+    - Assets/Other/Buildings/Medieval Structure Kit/FBXModels/Buildings/CurvedSupport.fbx.meta
+    - Assets/Other/Buildings/Medieval Structure Kit/FBXModels/Buildings/CurvedTabRoof.fbx
+    - Assets/Other/Buildings/Medieval Structure Kit/FBXModels/Buildings/CurvedTabRoof.fbx.meta
+    - Assets/Other/Buildings/Medieval Structure Kit/FBXModels/Buildings/DoubleAngleDoorway.fbx
+    - Assets/Other/Buildings/Medieval Structure Kit/FBXModels/Buildings/DoubleAngleDoorway.fbx.meta
+    - Assets/Other/Buildings/Medieval Structure Kit/FBXModels/Buildings/DoubleAngleRoof.fbx
+    - Assets/Other/Buildings/Medieval Structure Kit/FBXModels/Buildings/DoubleAngleRoof.fbx.meta
+    - Assets/Other/Buildings/Medieval Structure Kit/FBXModels/Buildings/DoubleAngleWall.fbx
+    - Assets/Other/Buildings/Medieval Structure Kit/FBXModels/Buildings/DoubleAngleWall.fbx.meta
+    - Assets/Other/Buildings/Medieval Structure Kit/FBXModels/Buildings/DoubleArchedWindow
+      1.fbx
+    - Assets/Other/Buildings/Medieval Structure Kit/FBXModels/Buildings/DoubleArchedWindow
+      1.fbx.meta
+    - Assets/Other/Buildings/Medieval Structure Kit/FBXModels/Buildings/DoubleWindow.fbx
+    - Assets/Other/Buildings/Medieval Structure Kit/FBXModels/Buildings/DoubleWindow.fbx.meta
+    - Assets/Other/Buildings/Medieval Structure Kit/FBXModels/Buildings/DoubleXRoof.fbx
+    - Assets/Other/Buildings/Medieval Structure Kit/FBXModels/Buildings/DoubleXRoof.fbx.meta
+    - Assets/Other/Buildings/Medieval Structure Kit/FBXModels/Buildings/FlatPlane.fbx
+    - Assets/Other/Buildings/Medieval Structure Kit/FBXModels/Buildings/FlatPlane.fbx.meta
+    - Assets/Other/Buildings/Medieval Structure Kit/FBXModels/Buildings/FoundationLength.fbx
+    - Assets/Other/Buildings/Medieval Structure Kit/FBXModels/Buildings/FoundationLength.fbx.meta
+    - Assets/Other/Buildings/Medieval Structure Kit/FBXModels/Buildings/FoundationShort.fbx
+    - Assets/Other/Buildings/Medieval Structure Kit/FBXModels/Buildings/FoundationShort.fbx.meta
+    - Assets/Other/Buildings/Medieval Structure Kit/FBXModels/Buildings/FoundationStairs.fbx
+    - Assets/Other/Buildings/Medieval Structure Kit/FBXModels/Buildings/FoundationStairs.fbx.meta
+    - Assets/Other/Buildings/Medieval Structure Kit/FBXModels/Buildings/FullConcreteWall.fbx
+    - Assets/Other/Buildings/Medieval Structure Kit/FBXModels/Buildings/FullConcreteWall.fbx.meta
+    - Assets/Other/Buildings/Medieval Structure Kit/FBXModels/Buildings/FullWoodenWal.fbx
+    - Assets/Other/Buildings/Medieval Structure Kit/FBXModels/Buildings/FullWoodenWal.fbx.meta
+    - Assets/Other/Buildings/Medieval Structure Kit/FBXModels/Buildings/HalfConcreteWall.fbx
+    - Assets/Other/Buildings/Medieval Structure Kit/FBXModels/Buildings/HalfConcreteWall.fbx.meta
+    - Assets/Other/Buildings/Medieval Structure Kit/FBXModels/Buildings/HalfInteriorStaircase.fbx
+    - Assets/Other/Buildings/Medieval Structure Kit/FBXModels/Buildings/HalfInteriorStaircase.fbx.meta
+    - Assets/Other/Buildings/Medieval Structure Kit/FBXModels/Buildings/HalfTeeWall.fbx
+    - Assets/Other/Buildings/Medieval Structure Kit/FBXModels/Buildings/HalfTeeWall.fbx.meta
+    - Assets/Other/Buildings/Medieval Structure Kit/FBXModels/Buildings/HalfWoodenWal.fbx
+    - Assets/Other/Buildings/Medieval Structure Kit/FBXModels/Buildings/HalfWoodenWal.fbx.meta
+    - Assets/Other/Buildings/Medieval Structure Kit/FBXModels/Buildings/HexFloor.fbx
+    - Assets/Other/Buildings/Medieval Structure Kit/FBXModels/Buildings/HexFloor.fbx.meta
+    - Assets/Other/Buildings/Medieval Structure Kit/FBXModels/Buildings/HexRoofPointed.fbx
+    - Assets/Other/Buildings/Medieval Structure Kit/FBXModels/Buildings/HexRoofPointed.fbx.meta
+    - Assets/Other/Buildings/Medieval Structure Kit/FBXModels/Buildings/ISCornerFoundation.fbx
+    - Assets/Other/Buildings/Medieval Structure Kit/FBXModels/Buildings/ISCornerFoundation.fbx.meta
+    - Assets/Other/Buildings/Medieval Structure Kit/FBXModels/Buildings/InteriorStaircase.fbx
+    - Assets/Other/Buildings/Medieval Structure Kit/FBXModels/Buildings/InteriorStaircase.fbx.meta
+    - Assets/Other/Buildings/Medieval Structure Kit/FBXModels/Buildings/MiniBlank.fbx
+    - Assets/Other/Buildings/Medieval Structure Kit/FBXModels/Buildings/MiniBlank.fbx.meta
+    - Assets/Other/Buildings/Medieval Structure Kit/FBXModels/Buildings/MiniDoubleAngle.fbx
+    - Assets/Other/Buildings/Medieval Structure Kit/FBXModels/Buildings/MiniDoubleAngle.fbx.meta
+    - Assets/Other/Buildings/Medieval Structure Kit/FBXModels/Buildings/MiniLongAngle.fbx
+    - Assets/Other/Buildings/Medieval Structure Kit/FBXModels/Buildings/MiniLongAngle.fbx.meta
+    - Assets/Other/Buildings/Medieval Structure Kit/FBXModels/Buildings/MiniSingleSmallAngle.fbx
+    - Assets/Other/Buildings/Medieval Structure Kit/FBXModels/Buildings/MiniSingleSmallAngle.fbx.meta
+    - Assets/Other/Buildings/Medieval Structure Kit/FBXModels/Buildings/MiniSingleWindow.fbx
+    - Assets/Other/Buildings/Medieval Structure Kit/FBXModels/Buildings/MiniSingleWindow.fbx.meta
+    - Assets/Other/Buildings/Medieval Structure Kit/FBXModels/Buildings/MiniSingleX.fbx
+    - Assets/Other/Buildings/Medieval Structure Kit/FBXModels/Buildings/MiniSingleX.fbx.meta
+    - Assets/Other/Buildings/Medieval Structure Kit/FBXModels/Buildings/PlankLargeRoof.fbx
+    - Assets/Other/Buildings/Medieval Structure Kit/FBXModels/Buildings/PlankLargeRoof.fbx.meta
+    - Assets/Other/Buildings/Medieval Structure Kit/FBXModels/Buildings/Planks.fbx
+    - Assets/Other/Buildings/Medieval Structure Kit/FBXModels/Buildings/Planks.fbx.meta
+    - Assets/Other/Buildings/Medieval Structure Kit/FBXModels/Buildings/PyramidRoof.fbx
+    - Assets/Other/Buildings/Medieval Structure Kit/FBXModels/Buildings/PyramidRoof.fbx.meta
+    - Assets/Other/Buildings/Medieval Structure Kit/FBXModels/Buildings/RoofTriangle.fbx
+    - Assets/Other/Buildings/Medieval Structure Kit/FBXModels/Buildings/RoofTriangle.fbx.meta
+    - Assets/Other/Buildings/Medieval Structure Kit/FBXModels/Buildings/ShopKeepWindow.fbx
+    - Assets/Other/Buildings/Medieval Structure Kit/FBXModels/Buildings/ShopKeepWindow.fbx.meta
+    - Assets/Other/Buildings/Medieval Structure Kit/FBXModels/Buildings/SingleArchedWindow.fbx
+    - Assets/Other/Buildings/Medieval Structure Kit/FBXModels/Buildings/SingleArchedWindow.fbx.meta
+    - Assets/Other/Buildings/Medieval Structure Kit/FBXModels/Buildings/SingleWindow.fbx
+    - Assets/Other/Buildings/Medieval Structure Kit/FBXModels/Buildings/SingleWindow.fbx.meta
+    - Assets/Other/Buildings/Medieval Structure Kit/FBXModels/Buildings/SingleWindowDoubleX.fbx
+    - Assets/Other/Buildings/Medieval Structure Kit/FBXModels/Buildings/SingleWindowDoubleX.fbx.meta
+    - Assets/Other/Buildings/Medieval Structure Kit/FBXModels/Buildings/SquareDoor.fbx
+    - Assets/Other/Buildings/Medieval Structure Kit/FBXModels/Buildings/SquareDoor.fbx.meta
+    - Assets/Other/Buildings/Medieval Structure Kit/FBXModels/Buildings/StoneArchway.fbx
+    - Assets/Other/Buildings/Medieval Structure Kit/FBXModels/Buildings/StoneArchway.fbx.meta
+    - Assets/Other/Buildings/Medieval Structure Kit/FBXModels/Buildings/WindowGable.fbx
+    - Assets/Other/Buildings/Medieval Structure Kit/FBXModels/Buildings/WindowGable.fbx.meta
+    - Assets/Other/Buildings/Medieval Structure Kit/FBXModels/Buildings/wallcorner1.fbx
+    - Assets/Other/Buildings/Medieval Structure Kit/FBXModels/Buildings/wallcorner1.fbx.meta
+    - Assets/Other/Buildings/Medieval Structure Kit/Materials.meta
+    - Assets/Other/Buildings/Medieval Structure Kit/Materials/Buildings.meta
+    - Assets/Other/Buildings/Medieval Structure Kit/Materials/Buildings/Brick 2.mat
+    - Assets/Other/Buildings/Medieval Structure Kit/Materials/Buildings/Brick 2.mat.meta
+    - Assets/Other/Buildings/Medieval Structure Kit/Materials/Buildings/Brick 3.mat
+    - Assets/Other/Buildings/Medieval Structure Kit/Materials/Buildings/Brick 3.mat.meta
+    - Assets/Other/Buildings/Medieval Structure Kit/Materials/Buildings/Brick 4.mat
+    - Assets/Other/Buildings/Medieval Structure Kit/Materials/Buildings/Brick 4.mat.meta
+    - Assets/Other/Buildings/Medieval Structure Kit/Materials/Buildings/Brick.mat
+    - Assets/Other/Buildings/Medieval Structure Kit/Materials/Buildings/Brick.mat.meta
+    - Assets/Other/Buildings/Medieval Structure Kit/Materials/Buildings/Brick7.mat
+    - Assets/Other/Buildings/Medieval Structure Kit/Materials/Buildings/Brick7.mat.meta
+    - Assets/Other/Buildings/Medieval Structure Kit/Materials/Buildings/Ground.mat
+    - Assets/Other/Buildings/Medieval Structure Kit/Materials/Buildings/Ground.mat.meta
+    - Assets/Other/Buildings/Medieval Structure Kit/Materials/Buildings/LoamWalls
+      1.mat
+    - Assets/Other/Buildings/Medieval Structure Kit/Materials/Buildings/LoamWalls
+      1.mat.meta
+    - Assets/Other/Buildings/Medieval Structure Kit/Materials/Buildings/LoamWalls
+      3.mat
+    - Assets/Other/Buildings/Medieval Structure Kit/Materials/Buildings/LoamWalls
+      3.mat.meta
+    - Assets/Other/Buildings/Medieval Structure Kit/Materials/Buildings/Metal1.mat
+    - Assets/Other/Buildings/Medieval Structure Kit/Materials/Buildings/Metal1.mat.meta
+    - Assets/Other/Buildings/Medieval Structure Kit/Materials/Buildings/Metal2.mat
+    - Assets/Other/Buildings/Medieval Structure Kit/Materials/Buildings/Metal2.mat.meta
+    - Assets/Other/Buildings/Medieval Structure Kit/Materials/Buildings/Roof1.mat
+    - Assets/Other/Buildings/Medieval Structure Kit/Materials/Buildings/Roof1.mat.meta
+    - Assets/Other/Buildings/Medieval Structure Kit/Materials/Buildings/Roof1Less
+      1.mat
+    - Assets/Other/Buildings/Medieval Structure Kit/Materials/Buildings/Roof1Less
+      1.mat.meta
+    - Assets/Other/Buildings/Medieval Structure Kit/Materials/Buildings/Roof1Less.mat
+    - Assets/Other/Buildings/Medieval Structure Kit/Materials/Buildings/Roof1Less.mat.meta
+    - Assets/Other/Buildings/Medieval Structure Kit/Materials/Buildings/Roof1Minus.mat
+    - Assets/Other/Buildings/Medieval Structure Kit/Materials/Buildings/Roof1Minus.mat.meta
+    - Assets/Other/Buildings/Medieval Structure Kit/Materials/Buildings/Roof2.mat
+    - Assets/Other/Buildings/Medieval Structure Kit/Materials/Buildings/Roof2.mat.meta
+    - Assets/Other/Buildings/Medieval Structure Kit/Materials/Buildings/Roof3.mat
+    - Assets/Other/Buildings/Medieval Structure Kit/Materials/Buildings/Roof3.mat.meta
+    - Assets/Other/Buildings/Medieval Structure Kit/Materials/Buildings/Roof4.mat
+    - Assets/Other/Buildings/Medieval Structure Kit/Materials/Buildings/Roof4.mat.meta
+    - Assets/Other/Buildings/Medieval Structure Kit/Materials/Buildings/RoofLess.mat
+    - Assets/Other/Buildings/Medieval Structure Kit/Materials/Buildings/RoofLess.mat.meta
+    - Assets/Other/Buildings/Medieval Structure Kit/Materials/Buildings/RoofMaxLess.mat
+    - Assets/Other/Buildings/Medieval Structure Kit/Materials/Buildings/RoofMaxLess.mat.meta
+    - Assets/Other/Buildings/Medieval Structure Kit/Materials/Buildings/RoofMore
+      1.mat
+    - Assets/Other/Buildings/Medieval Structure Kit/Materials/Buildings/RoofMore
+      1.mat.meta
+    - Assets/Other/Buildings/Medieval Structure Kit/Materials/Buildings/RoofMore.mat
+    - Assets/Other/Buildings/Medieval Structure Kit/Materials/Buildings/RoofMore.mat.meta
+    - Assets/Other/Buildings/Medieval Structure Kit/Materials/Buildings/RoofMorethanMore.mat
+    - Assets/Other/Buildings/Medieval Structure Kit/Materials/Buildings/RoofMorethanMore.mat.meta
+    - Assets/Other/Buildings/Medieval Structure Kit/Materials/Buildings/Windows.mat
+    - Assets/Other/Buildings/Medieval Structure Kit/Materials/Buildings/Windows.mat.meta
+    - Assets/Other/Buildings/Medieval Structure Kit/Materials/Buildings/Wood1.mat
+    - Assets/Other/Buildings/Medieval Structure Kit/Materials/Buildings/Wood1.mat.meta
+    - Assets/Other/Buildings/Medieval Structure Kit/Materials/Buildings/Wood2.mat
+    - Assets/Other/Buildings/Medieval Structure Kit/Materials/Buildings/Wood2.mat.meta
+    - Assets/Other/Buildings/Medieval Structure Kit/Materials/Buildings/Wood3.mat
+    - Assets/Other/Buildings/Medieval Structure Kit/Materials/Buildings/Wood3.mat.meta
+    - Assets/Other/Buildings/Medieval Structure Kit/Materials/Buildings/Wood4.mat
+    - Assets/Other/Buildings/Medieval Structure Kit/Materials/Buildings/Wood4.mat.meta
+    - Assets/Other/Buildings/Medieval Structure Kit/Materials/Buildings/Wood5.mat
+    - Assets/Other/Buildings/Medieval Structure Kit/Materials/Buildings/Wood5.mat.meta
+    - Assets/Other/Buildings/Medieval Structure Kit/Materials/Buildings/Wood6.mat
+    - Assets/Other/Buildings/Medieval Structure Kit/Materials/Buildings/Wood6.mat.meta
+    - Assets/Other/Buildings/Medieval Structure Kit/Materials/Buildings/Wood7.mat
+    - Assets/Other/Buildings/Medieval Structure Kit/Materials/Buildings/Wood7.mat.meta
+    - Assets/Other/Buildings/Medieval Structure Kit/Materials/Buildings/Wood8.mat
+    - Assets/Other/Buildings/Medieval Structure Kit/Materials/Buildings/Wood8.mat.meta
+    - Assets/Other/Buildings/Medieval Structure Kit/Materials/Buildings/Wood9.mat
+    - Assets/Other/Buildings/Medieval Structure Kit/Materials/Buildings/Wood9.mat.meta
+    - Assets/Other/Buildings/Medieval Structure Kit/Materials/Buildings/WoodFloor
+      1.mat
+    - Assets/Other/Buildings/Medieval Structure Kit/Materials/Buildings/WoodFloor
+      1.mat.meta
+    - Assets/Other/Buildings/Medieval Structure Kit/Materials/Buildings/WoodFloor
+      2.mat
+    - Assets/Other/Buildings/Medieval Structure Kit/Materials/Buildings/WoodFloor
+      2.mat.meta
+    - Assets/Other/Buildings/Medieval Structure Kit/Materials/Buildings/WoodFloor.mat
+    - Assets/Other/Buildings/Medieval Structure Kit/Materials/Buildings/WoodFloor.mat.meta
+    - Assets/Other/Buildings/Medieval Structure Kit/Materials/Buildings/WoodWall
+      1.mat
+    - Assets/Other/Buildings/Medieval Structure Kit/Materials/Buildings/WoodWall
+      1.mat.meta
+    - Assets/Other/Buildings/Medieval Structure Kit/Materials/Buildings/WoodWall.mat
+    - Assets/Other/Buildings/Medieval Structure Kit/Materials/Buildings/WoodWall.mat.meta
+    - Assets/Other/Buildings/Medieval Structure Kit/Materials/Buildings/WoodWallHoriz
+      1.mat
+    - Assets/Other/Buildings/Medieval Structure Kit/Materials/Buildings/WoodWallHoriz
+      1.mat.meta
+    - Assets/Other/Buildings/Medieval Structure Kit/Materials/Buildings/WoodWallHoriz.mat
+    - Assets/Other/Buildings/Medieval Structure Kit/Materials/Buildings/WoodWallHoriz.mat.meta
+    - Assets/Other/Buildings/Medieval Structure Kit/Prefabs.meta
+    - Assets/Other/Buildings/Medieval Structure Kit/Prefabs/BuildingPartsPrefabs.meta
+    - Assets/Other/Buildings/Medieval Structure Kit/Prefabs/BuildingPartsPrefabs/AngleSupport.prefab
+    - Assets/Other/Buildings/Medieval Structure Kit/Prefabs/BuildingPartsPrefabs/AngleSupport.prefab.meta
+    - Assets/Other/Buildings/Medieval Structure Kit/Prefabs/BuildingPartsPrefabs/ArchDoor.prefab
+    - Assets/Other/Buildings/Medieval Structure Kit/Prefabs/BuildingPartsPrefabs/ArchDoor.prefab.meta
+    - Assets/Other/Buildings/Medieval Structure Kit/Prefabs/BuildingPartsPrefabs/ArchDoorway.prefab
+    - Assets/Other/Buildings/Medieval Structure Kit/Prefabs/BuildingPartsPrefabs/ArchDoorway.prefab.meta
+    - Assets/Other/Buildings/Medieval Structure Kit/Prefabs/BuildingPartsPrefabs/ArchFiller.prefab
+    - Assets/Other/Buildings/Medieval Structure Kit/Prefabs/BuildingPartsPrefabs/ArchFiller.prefab.meta
+    - Assets/Other/Buildings/Medieval Structure Kit/Prefabs/BuildingPartsPrefabs/BayRoof.prefab
+    - Assets/Other/Buildings/Medieval Structure Kit/Prefabs/BuildingPartsPrefabs/BayRoof.prefab.meta
+    - Assets/Other/Buildings/Medieval Structure Kit/Prefabs/BuildingPartsPrefabs/Board.prefab
+    - Assets/Other/Buildings/Medieval Structure Kit/Prefabs/BuildingPartsPrefabs/Board.prefab.meta
+    - Assets/Other/Buildings/Medieval Structure Kit/Prefabs/BuildingPartsPrefabs/Board2.prefab
+    - Assets/Other/Buildings/Medieval Structure Kit/Prefabs/BuildingPartsPrefabs/Board2.prefab.meta
+    - Assets/Other/Buildings/Medieval Structure Kit/Prefabs/BuildingPartsPrefabs/CenterWindowRoof.prefab
+    - Assets/Other/Buildings/Medieval Structure Kit/Prefabs/BuildingPartsPrefabs/CenterWindowRoof.prefab.meta
+    - Assets/Other/Buildings/Medieval Structure Kit/Prefabs/BuildingPartsPrefabs/ConcreteStep.prefab
+    - Assets/Other/Buildings/Medieval Structure Kit/Prefabs/BuildingPartsPrefabs/ConcreteStep.prefab.meta
+    - Assets/Other/Buildings/Medieval Structure Kit/Prefabs/BuildingPartsPrefabs/CornerFoundation.prefab
+    - Assets/Other/Buildings/Medieval Structure Kit/Prefabs/BuildingPartsPrefabs/CornerFoundation.prefab.meta
+    - Assets/Other/Buildings/Medieval Structure Kit/Prefabs/BuildingPartsPrefabs/CurvedSupport.prefab
+    - Assets/Other/Buildings/Medieval Structure Kit/Prefabs/BuildingPartsPrefabs/CurvedSupport.prefab.meta
+    - Assets/Other/Buildings/Medieval Structure Kit/Prefabs/BuildingPartsPrefabs/CurvedTabRoof.prefab
+    - Assets/Other/Buildings/Medieval Structure Kit/Prefabs/BuildingPartsPrefabs/CurvedTabRoof.prefab.meta
+    - Assets/Other/Buildings/Medieval Structure Kit/Prefabs/BuildingPartsPrefabs/DoubleAngleCorner.prefab
+    - Assets/Other/Buildings/Medieval Structure Kit/Prefabs/BuildingPartsPrefabs/DoubleAngleCorner.prefab.meta
+    - Assets/Other/Buildings/Medieval Structure Kit/Prefabs/BuildingPartsPrefabs/DoubleAngleDoorway.prefab
+    - Assets/Other/Buildings/Medieval Structure Kit/Prefabs/BuildingPartsPrefabs/DoubleAngleDoorway.prefab.meta
+    - Assets/Other/Buildings/Medieval Structure Kit/Prefabs/BuildingPartsPrefabs/DoubleAngleRoof.prefab
+    - Assets/Other/Buildings/Medieval Structure Kit/Prefabs/BuildingPartsPrefabs/DoubleAngleRoof.prefab.meta
+    - Assets/Other/Buildings/Medieval Structure Kit/Prefabs/BuildingPartsPrefabs/DoubleAngleWall.prefab
+    - Assets/Other/Buildings/Medieval Structure Kit/Prefabs/BuildingPartsPrefabs/DoubleAngleWall.prefab.meta
+    - Assets/Other/Buildings/Medieval Structure Kit/Prefabs/BuildingPartsPrefabs/DoubleArchedWindow
+      1.prefab
+    - Assets/Other/Buildings/Medieval Structure Kit/Prefabs/BuildingPartsPrefabs/DoubleArchedWindow
+      1.prefab.meta
+    - Assets/Other/Buildings/Medieval Structure Kit/Prefabs/BuildingPartsPrefabs/DoubleCurvedRoof.prefab
+    - Assets/Other/Buildings/Medieval Structure Kit/Prefabs/BuildingPartsPrefabs/DoubleCurvedRoof.prefab.meta
+    - Assets/Other/Buildings/Medieval Structure Kit/Prefabs/BuildingPartsPrefabs/DoubleWindow.prefab
+    - Assets/Other/Buildings/Medieval Structure Kit/Prefabs/BuildingPartsPrefabs/DoubleWindow.prefab.meta
+    - Assets/Other/Buildings/Medieval Structure Kit/Prefabs/BuildingPartsPrefabs/DoubleXRoof.prefab
+    - Assets/Other/Buildings/Medieval Structure Kit/Prefabs/BuildingPartsPrefabs/DoubleXRoof.prefab.meta
+    - Assets/Other/Buildings/Medieval Structure Kit/Prefabs/BuildingPartsPrefabs/FenceSection.prefab
+    - Assets/Other/Buildings/Medieval Structure Kit/Prefabs/BuildingPartsPrefabs/FenceSection.prefab.meta
+    - Assets/Other/Buildings/Medieval Structure Kit/Prefabs/BuildingPartsPrefabs/Floor.prefab
+    - Assets/Other/Buildings/Medieval Structure Kit/Prefabs/BuildingPartsPrefabs/Floor.prefab.meta
+    - Assets/Other/Buildings/Medieval Structure Kit/Prefabs/BuildingPartsPrefabs/FoundationLength.prefab
+    - Assets/Other/Buildings/Medieval Structure Kit/Prefabs/BuildingPartsPrefabs/FoundationLength.prefab.meta
+    - Assets/Other/Buildings/Medieval Structure Kit/Prefabs/BuildingPartsPrefabs/FoundationShort.prefab
+    - Assets/Other/Buildings/Medieval Structure Kit/Prefabs/BuildingPartsPrefabs/FoundationShort.prefab.meta
+    - Assets/Other/Buildings/Medieval Structure Kit/Prefabs/BuildingPartsPrefabs/FoundationStairs.prefab
+    - Assets/Other/Buildings/Medieval Structure Kit/Prefabs/BuildingPartsPrefabs/FoundationStairs.prefab.meta
+    - Assets/Other/Buildings/Medieval Structure Kit/Prefabs/BuildingPartsPrefabs/FullConcreteWall.prefab
+    - Assets/Other/Buildings/Medieval Structure Kit/Prefabs/BuildingPartsPrefabs/FullConcreteWall.prefab.meta
+    - Assets/Other/Buildings/Medieval Structure Kit/Prefabs/BuildingPartsPrefabs/FullWoodenWal.prefab
+    - Assets/Other/Buildings/Medieval Structure Kit/Prefabs/BuildingPartsPrefabs/FullWoodenWal.prefab.meta
+    - Assets/Other/Buildings/Medieval Structure Kit/Prefabs/BuildingPartsPrefabs/HalfConcreteWall.prefab
+    - Assets/Other/Buildings/Medieval Structure Kit/Prefabs/BuildingPartsPrefabs/HalfConcreteWall.prefab.meta
+    - Assets/Other/Buildings/Medieval Structure Kit/Prefabs/BuildingPartsPrefabs/HalfInteriorStaircase.prefab
+    - Assets/Other/Buildings/Medieval Structure Kit/Prefabs/BuildingPartsPrefabs/HalfInteriorStaircase.prefab.meta
+    - Assets/Other/Buildings/Medieval Structure Kit/Prefabs/BuildingPartsPrefabs/HalfTeeWall.prefab
+    - Assets/Other/Buildings/Medieval Structure Kit/Prefabs/BuildingPartsPrefabs/HalfTeeWall.prefab.meta
+    - Assets/Other/Buildings/Medieval Structure Kit/Prefabs/BuildingPartsPrefabs/HalfWoodenWal.prefab
+    - Assets/Other/Buildings/Medieval Structure Kit/Prefabs/BuildingPartsPrefabs/HalfWoodenWal.prefab.meta
+    - Assets/Other/Buildings/Medieval Structure Kit/Prefabs/BuildingPartsPrefabs/HexFloor.prefab
+    - Assets/Other/Buildings/Medieval Structure Kit/Prefabs/BuildingPartsPrefabs/HexFloor.prefab.meta
+    - Assets/Other/Buildings/Medieval Structure Kit/Prefabs/BuildingPartsPrefabs/HexRoofPointed.prefab
+    - Assets/Other/Buildings/Medieval Structure Kit/Prefabs/BuildingPartsPrefabs/HexRoofPointed.prefab.meta
+    - Assets/Other/Buildings/Medieval Structure Kit/Prefabs/BuildingPartsPrefabs/InteriorStaircase.prefab
+    - Assets/Other/Buildings/Medieval Structure Kit/Prefabs/BuildingPartsPrefabs/InteriorStaircase.prefab.meta
+    - Assets/Other/Buildings/Medieval Structure Kit/Prefabs/BuildingPartsPrefabs/MiniBlank.prefab
+    - Assets/Other/Buildings/Medieval Structure Kit/Prefabs/BuildingPartsPrefabs/MiniBlank.prefab.meta
+    - Assets/Other/Buildings/Medieval Structure Kit/Prefabs/BuildingPartsPrefabs/MiniDoubleAngle.prefab
+    - Assets/Other/Buildings/Medieval Structure Kit/Prefabs/BuildingPartsPrefabs/MiniDoubleAngle.prefab.meta
+    - Assets/Other/Buildings/Medieval Structure Kit/Prefabs/BuildingPartsPrefabs/MiniLongAngle.prefab
+    - Assets/Other/Buildings/Medieval Structure Kit/Prefabs/BuildingPartsPrefabs/MiniLongAngle.prefab.meta
+    - Assets/Other/Buildings/Medieval Structure Kit/Prefabs/BuildingPartsPrefabs/MiniSingleSmallAngle.prefab
+    - Assets/Other/Buildings/Medieval Structure Kit/Prefabs/BuildingPartsPrefabs/MiniSingleSmallAngle.prefab.meta
+    - Assets/Other/Buildings/Medieval Structure Kit/Prefabs/BuildingPartsPrefabs/MiniSingleWindow.prefab
+    - Assets/Other/Buildings/Medieval Structure Kit/Prefabs/BuildingPartsPrefabs/MiniSingleWindow.prefab.meta
+    - Assets/Other/Buildings/Medieval Structure Kit/Prefabs/BuildingPartsPrefabs/MiniSingleX.prefab
+    - Assets/Other/Buildings/Medieval Structure Kit/Prefabs/BuildingPartsPrefabs/MiniSingleX.prefab.meta
+    - Assets/Other/Buildings/Medieval Structure Kit/Prefabs/BuildingPartsPrefabs/OcScaffold.prefab
+    - Assets/Other/Buildings/Medieval Structure Kit/Prefabs/BuildingPartsPrefabs/OcScaffold.prefab.meta
+    - Assets/Other/Buildings/Medieval Structure Kit/Prefabs/BuildingPartsPrefabs/PlankLargeRoof.prefab
+    - Assets/Other/Buildings/Medieval Structure Kit/Prefabs/BuildingPartsPrefabs/PlankLargeRoof.prefab.meta
+    - Assets/Other/Buildings/Medieval Structure Kit/Prefabs/BuildingPartsPrefabs/Planks.prefab
+    - Assets/Other/Buildings/Medieval Structure Kit/Prefabs/BuildingPartsPrefabs/Planks.prefab.meta
+    - Assets/Other/Buildings/Medieval Structure Kit/Prefabs/BuildingPartsPrefabs/PyramidRoof.prefab
+    - Assets/Other/Buildings/Medieval Structure Kit/Prefabs/BuildingPartsPrefabs/PyramidRoof.prefab.meta
+    - Assets/Other/Buildings/Medieval Structure Kit/Prefabs/BuildingPartsPrefabs/RoofTriangle.prefab
+    - Assets/Other/Buildings/Medieval Structure Kit/Prefabs/BuildingPartsPrefabs/RoofTriangle.prefab.meta
+    - Assets/Other/Buildings/Medieval Structure Kit/Prefabs/BuildingPartsPrefabs/ShopKeepWindow.prefab
+    - Assets/Other/Buildings/Medieval Structure Kit/Prefabs/BuildingPartsPrefabs/ShopKeepWindow.prefab.meta
+    - Assets/Other/Buildings/Medieval Structure Kit/Prefabs/BuildingPartsPrefabs/SingleArchedWindow.prefab
+    - Assets/Other/Buildings/Medieval Structure Kit/Prefabs/BuildingPartsPrefabs/SingleArchedWindow.prefab.meta
+    - Assets/Other/Buildings/Medieval Structure Kit/Prefabs/BuildingPartsPrefabs/SingleWindow.prefab
+    - Assets/Other/Buildings/Medieval Structure Kit/Prefabs/BuildingPartsPrefabs/SingleWindow.prefab.meta
+    - Assets/Other/Buildings/Medieval Structure Kit/Prefabs/BuildingPartsPrefabs/SingleWindowDoubleX.prefab
+    - Assets/Other/Buildings/Medieval Structure Kit/Prefabs/BuildingPartsPrefabs/SingleWindowDoubleX.prefab.meta
+    - Assets/Other/Buildings/Medieval Structure Kit/Prefabs/BuildingPartsPrefabs/SquareDoor.prefab
+    - Assets/Other/Buildings/Medieval Structure Kit/Prefabs/BuildingPartsPrefabs/SquareDoor.prefab.meta
+    - Assets/Other/Buildings/Medieval Structure Kit/Prefabs/BuildingPartsPrefabs/SquareRailling.prefab
+    - Assets/Other/Buildings/Medieval Structure Kit/Prefabs/BuildingPartsPrefabs/SquareRailling.prefab.meta
+    - Assets/Other/Buildings/Medieval Structure Kit/Prefabs/BuildingPartsPrefabs/StoneArchway.prefab
+    - Assets/Other/Buildings/Medieval Structure Kit/Prefabs/BuildingPartsPrefabs/StoneArchway.prefab.meta
+    - Assets/Other/Buildings/Medieval Structure Kit/Prefabs/BuildingPartsPrefabs/WindowGable.prefab
+    - Assets/Other/Buildings/Medieval Structure Kit/Prefabs/BuildingPartsPrefabs/WindowGable.prefab.meta
+    - Assets/Other/Buildings/Medieval Structure Kit/Prefabs/BuildingPartsPrefabs/wallcorner1.prefab
+    - Assets/Other/Buildings/Medieval Structure Kit/Prefabs/BuildingPartsPrefabs/wallcorner1.prefab.meta
+    - Assets/Other/Buildings/Medieval Structure Kit/Prefabs/Buildings.meta
+    - Assets/Other/Buildings/Medieval Structure Kit/Prefabs/Buildings/AltarHouse.prefab
+    - Assets/Other/Buildings/Medieval Structure Kit/Prefabs/Buildings/AltarHouse.prefab.meta
+    - Assets/Other/Buildings/Medieval Structure Kit/Prefabs/Buildings/Large House.prefab
+    - Assets/Other/Buildings/Medieval Structure Kit/Prefabs/Buildings/Large House.prefab.meta
+    - Assets/Other/Buildings/Medieval Structure Kit/Prefabs/Buildings/LargeManor.prefab
+    - Assets/Other/Buildings/Medieval Structure Kit/Prefabs/Buildings/LargeManor.prefab.meta
+    - Assets/Other/Buildings/Medieval Structure Kit/Prefabs/Buildings/Manor.prefab
+    - Assets/Other/Buildings/Medieval Structure Kit/Prefabs/Buildings/Manor.prefab.meta
+    - Assets/Other/Buildings/Medieval Structure Kit/Prefabs/Buildings/ShopDuplex.prefab
+    - Assets/Other/Buildings/Medieval Structure Kit/Prefabs/Buildings/ShopDuplex.prefab.meta
+    - Assets/Other/Buildings/Medieval Structure Kit/Prefabs/Buildings/SmallHouse.prefab
+    - Assets/Other/Buildings/Medieval Structure Kit/Prefabs/Buildings/SmallHouse.prefab.meta
+    - Assets/Other/Buildings/Medieval Structure Kit/Prefabs/Buildings/SmallHouse2.prefab
+    - Assets/Other/Buildings/Medieval Structure Kit/Prefabs/Buildings/SmallHouse2.prefab.meta
+    - Assets/Other/Buildings/Medieval Structure Kit/Prefabs/Buildings/Stable.prefab
+    - Assets/Other/Buildings/Medieval Structure Kit/Prefabs/Buildings/Stable.prefab.meta
+    - Assets/Other/Buildings/Medieval Structure Kit/Prefabs/Buildings/TownCenter.prefab
+    - Assets/Other/Buildings/Medieval Structure Kit/Prefabs/Buildings/TownCenter.prefab.meta
+    - Assets/Other/Buildings/Medieval Structure Kit/Prefabs/Buildings/TownWatch.prefab
+    - Assets/Other/Buildings/Medieval Structure Kit/Prefabs/Buildings/TownWatch.prefab.meta
+    - Assets/Other/Buildings/Medieval Structure Kit/Scenes.meta
+    - Assets/Other/Buildings/Medieval Structure Kit/Scenes/SampleScene.unity
+    - Assets/Other/Buildings/Medieval Structure Kit/Scenes/SampleScene.unity.meta
+    - Assets/Other/Buildings/Medieval Structure Kit/Textures.meta
+    - Assets/Other/Buildings/Medieval Structure Kit/Textures/Buildings.meta
+    - Assets/Other/Buildings/Medieval Structure Kit/Textures/Buildings/BoardsPNG
+      1.png
+    - Assets/Other/Buildings/Medieval Structure Kit/Textures/Buildings/BoardsPNG
+      1.png.meta
+    - Assets/Other/Buildings/Medieval Structure Kit/Textures/Buildings/BoardsPNG.png
+    - Assets/Other/Buildings/Medieval Structure Kit/Textures/Buildings/BoardsPNG.png.meta
+    - Assets/Other/Buildings/Medieval Structure Kit/Textures/Buildings/Foundation
+      RockPNG 1.png
+    - Assets/Other/Buildings/Medieval Structure Kit/Textures/Buildings/Foundation
+      RockPNG 1.png.meta
+    - Assets/Other/Buildings/Medieval Structure Kit/Textures/Buildings/Foundation
+      RockPNG.png
+    - Assets/Other/Buildings/Medieval Structure Kit/Textures/Buildings/Foundation
+      RockPNG.png.meta
+    - Assets/Other/Buildings/Medieval Structure Kit/Textures/Buildings/LoamWallsPNG
+      1.png
+    - Assets/Other/Buildings/Medieval Structure Kit/Textures/Buildings/LoamWallsPNG
+      1.png.meta
+    - Assets/Other/Buildings/Medieval Structure Kit/Textures/Buildings/LoamWallsPNG.png
+    - Assets/Other/Buildings/Medieval Structure Kit/Textures/Buildings/LoamWallsPNG.png.meta
+    - Assets/Other/Buildings/Medieval Structure Kit/Textures/Buildings/OlsMixedBrickPNG
+      1.png
+    - Assets/Other/Buildings/Medieval Structure Kit/Textures/Buildings/OlsMixedBrickPNG
+      1.png.meta
+    - Assets/Other/Buildings/Medieval Structure Kit/Textures/Buildings/OlsMixedBrickPNG.png
+    - Assets/Other/Buildings/Medieval Structure Kit/Textures/Buildings/OlsMixedBrickPNG.png.meta
+    - Assets/Other/Buildings/Medieval Structure Kit/Textures/Buildings/Roof1PNG 1.png
+    - Assets/Other/Buildings/Medieval Structure Kit/Textures/Buildings/Roof1PNG 1.png.meta
+    - Assets/Other/Buildings/Medieval Structure Kit/Textures/Buildings/Roof1PNG.png
+    - Assets/Other/Buildings/Medieval Structure Kit/Textures/Buildings/Roof1PNG.png.meta
+    - Assets/Other/Buildings/Medieval Structure Kit/Textures/Buildings/ShakesPNG
+      1.png
+    - Assets/Other/Buildings/Medieval Structure Kit/Textures/Buildings/ShakesPNG
+      1.png.meta
+    - Assets/Other/Buildings/Medieval Structure Kit/Textures/Buildings/ShakesPNG.png
+    - Assets/Other/Buildings/Medieval Structure Kit/Textures/Buildings/ShakesPNG.png.meta
+    - Assets/Other/Buildings/Medieval Structure Kit/Textures/Buildings/TexturesCom_Concrete1_1.2x1.2_1K_albedo.tif
+    - Assets/Other/Buildings/Medieval Structure Kit/Textures/Buildings/TexturesCom_Concrete1_1.2x1.2_1K_albedo.tif.meta
+    - Assets/Other/Buildings/Medieval Structure Kit/Textures/Buildings/TexturesCom_Concrete1_1.2x1.2_1K_normal.tif
+    - Assets/Other/Buildings/Medieval Structure Kit/Textures/Buildings/TexturesCom_Concrete1_1.2x1.2_1K_normal.tif.meta
+    - Assets/Other/Buildings/Medieval Structure Kit/Textures/Buildings/TexturesCom_WoodPlanksBare0017_S
+      1.png
+    - Assets/Other/Buildings/Medieval Structure Kit/Textures/Buildings/TexturesCom_WoodPlanksBare0017_S
+      1.png.meta
+    - Assets/Other/Buildings/Medieval Structure Kit/Textures/Buildings/TexturesCom_WoodPlanksBare0017_S.png
+    - Assets/Other/Buildings/Medieval Structure Kit/Textures/Buildings/TexturesCom_WoodPlanksBare0017_S.png.meta
+    - Assets/Other/Buildings/Medieval Structure Kit/Textures/Buildings/TexturesCom_WoodPlanksOld0250_3_seamless_S
+      1.png
+    - Assets/Other/Buildings/Medieval Structure Kit/Textures/Buildings/TexturesCom_WoodPlanksOld0250_3_seamless_S
+      1.png.meta
+    - Assets/Other/Buildings/Medieval Structure Kit/Textures/Buildings/TexturesCom_WoodPlanksOld0250_3_seamless_S.png
+    - Assets/Other/Buildings/Medieval Structure Kit/Textures/Buildings/TexturesCom_WoodPlanksOld0250_3_seamless_S.png.meta
+    - Assets/Other/Buildings/Medieval Structure Kit/Textures/Buildings/TexturesCom_WoodPlanksOld0282_2_seamless_S
+      1.png
+    - Assets/Other/Buildings/Medieval Structure Kit/Textures/Buildings/TexturesCom_WoodPlanksOld0282_2_seamless_S
+      1.png.meta
+    - Assets/Other/Buildings/Medieval Structure Kit/Textures/Buildings/TexturesCom_WoodPlanksOld0282_2_seamless_S.png
+    - Assets/Other/Buildings/Medieval Structure Kit/Textures/Buildings/TexturesCom_WoodPlanksOld0282_2_seamless_S.png.meta
+    - Assets/Other/Buildings/Medieval Structure Kit/Textures/Buildings/Windows 2PNG.png
+    - Assets/Other/Buildings/Medieval Structure Kit/Textures/Buildings/Windows 2PNG.png.meta
+    - Assets/Other/Buildings/Medieval Structure Kit/Textures/Buildings/WindowsPNG.png
+    - Assets/Other/Buildings/Medieval Structure Kit/Textures/Buildings/WindowsPNG.png.meta
+    - Assets/Other/Buildings/Medieval Structure Kit/Textures/Buildings/Wood1Vert
+      1.png
+    - Assets/Other/Buildings/Medieval Structure Kit/Textures/Buildings/Wood1Vert
+      1.png.meta
+    - Assets/Other/Buildings/Medieval Structure Kit/Textures/Buildings/Wood1Vert.png
+    - Assets/Other/Buildings/Medieval Structure Kit/Textures/Buildings/Wood1Vert.png.meta
+    - Assets/Other/Buildings/Medieval Structure Kit/Textures/Buildings/stoneroadPNG
+      1.png
+    - Assets/Other/Buildings/Medieval Structure Kit/Textures/Buildings/stoneroadPNG
+      1.png.meta
+    - Assets/Other/Buildings/Medieval Structure Kit/Textures/Buildings/stoneroadPNG.png
+    - Assets/Other/Buildings/Medieval Structure Kit/Textures/Buildings/stoneroadPNG.png.meta
+    - Assets/Other/Buildings/Medieval Structure Kit/Textures/Metal.meta
+    - Assets/Other/Buildings/Medieval Structure Kit/Textures/Metal/TexturesCom_Metal_Medieval_512_albedo
+      1.tif
+    - Assets/Other/Buildings/Medieval Structure Kit/Textures/Metal/TexturesCom_Metal_Medieval_512_albedo
+      1.tif.meta
+    - Assets/Other/Buildings/Medieval Structure Kit/Textures/Metal/TexturesCom_Metal_Medieval_512_albedo.tif
+    - Assets/Other/Buildings/Medieval Structure Kit/Textures/Metal/TexturesCom_Metal_Medieval_512_albedo.tif.meta
+    - Assets/Other/Buildings/Medieval Structure Kit/Textures/Metal/TexturesCom_Metal_SteelPitted_1K_albedo
+      1.tif
+    - Assets/Other/Buildings/Medieval Structure Kit/Textures/Metal/TexturesCom_Metal_SteelPitted_1K_albedo
+      1.tif.meta
+    - Assets/Other/Buildings/Medieval Structure Kit/Textures/Metal/TexturesCom_Metal_SteelPitted_1K_albedo.tif
+    - Assets/Other/Buildings/Medieval Structure Kit/Textures/Metal/TexturesCom_Metal_SteelPitted_1K_albedo.tif.meta
+    - Assets/Other/Buildings/Medieval Structure Kit/Textures/Metal/TexturesCom_Metal_SteelRough_1K_albedo
+      1.tif
+    - Assets/Other/Buildings/Medieval Structure Kit/Textures/Metal/TexturesCom_Metal_SteelRough_1K_albedo
+      1.tif.meta
+    - Assets/Other/Buildings/Medieval Structure Kit/Textures/Metal/TexturesCom_Metal_SteelRough_1K_albedo.tif
+    - Assets/Other/Buildings/Medieval Structure Kit/Textures/Metal/TexturesCom_Metal_SteelRough_1K_albedo.tif.meta
+    - Assets/Other/Buildings/Medieval house.meta
+    - Assets/Other/Buildings/Medieval house/Model.meta
+    - Assets/Other/Buildings/Medieval house/Model/House.fbx
+    - Assets/Other/Buildings/Medieval house/Model/House.fbx.meta
+    - Assets/Other/Buildings/Medieval house/Model/House.prefab
+    - Assets/Other/Buildings/Medieval house/Model/House.prefab.meta
+    - Assets/Other/Buildings/Medieval house/Textures & Materials.meta
+    - Assets/Other/Buildings/Medieval house/Textures & Materials/Concrete.mat
+    - Assets/Other/Buildings/Medieval house/Textures & Materials/Concrete.mat.meta
+    - Assets/Other/Buildings/Medieval house/Textures & Materials/Door.mat
+    - Assets/Other/Buildings/Medieval house/Textures & Materials/Door.mat.meta
+    - Assets/Other/Buildings/Medieval house/Textures & Materials/End.mat
+    - Assets/Other/Buildings/Medieval house/Textures & Materials/End.mat.meta
+    - Assets/Other/Buildings/Medieval house/Textures & Materials/Roof.mat
+    - Assets/Other/Buildings/Medieval house/Textures & Materials/Roof.mat.meta
+    - Assets/Other/Buildings/Medieval house/Textures & Materials/Wall.mat
+    - Assets/Other/Buildings/Medieval house/Textures & Materials/Wall.mat.meta
+    - Assets/Other/Buildings/Medieval house/Textures & Materials/Window.mat
+    - Assets/Other/Buildings/Medieval house/Textures & Materials/Window.mat.meta
+    - Assets/Other/Buildings/Medieval house/Textures & Materials/Wood.mat
+    - Assets/Other/Buildings/Medieval house/Textures & Materials/Wood.mat.meta
+    - Assets/Other/Buildings/Medieval house/Textures & Materials/concrete_2.png
+    - Assets/Other/Buildings/Medieval house/Textures & Materials/concrete_2.png.meta
+    - Assets/Other/Buildings/Medieval house/Textures & Materials/concrete_2_NRM.png
+    - Assets/Other/Buildings/Medieval house/Textures & Materials/concrete_2_NRM.png.meta
+    - Assets/Other/Buildings/Medieval house/Textures & Materials/door_2.png
+    - Assets/Other/Buildings/Medieval house/Textures & Materials/door_2.png.meta
+    - Assets/Other/Buildings/Medieval house/Textures & Materials/door_2_NRM.png
+    - Assets/Other/Buildings/Medieval house/Textures & Materials/door_2_NRM.png.meta
+    - Assets/Other/Buildings/Medieval house/Textures & Materials/end.png
+    - Assets/Other/Buildings/Medieval house/Textures & Materials/end.png.meta
+    - Assets/Other/Buildings/Medieval house/Textures & Materials/end_NRM.png
+    - Assets/Other/Buildings/Medieval house/Textures & Materials/end_NRM.png.meta
+    - Assets/Other/Buildings/Medieval house/Textures & Materials/roof.png
+    - Assets/Other/Buildings/Medieval house/Textures & Materials/roof.png.meta
+    - Assets/Other/Buildings/Medieval house/Textures & Materials/roof_NRM.png
+    - Assets/Other/Buildings/Medieval house/Textures & Materials/roof_NRM.png.meta
+    - Assets/Other/Buildings/Medieval house/Textures & Materials/wall_4.png
+    - Assets/Other/Buildings/Medieval house/Textures & Materials/wall_4.png.meta
+    - Assets/Other/Buildings/Medieval house/Textures & Materials/wall_NRM.png
+    - Assets/Other/Buildings/Medieval house/Textures & Materials/wall_NRM.png.meta
+    - Assets/Other/Buildings/Medieval house/Textures & Materials/window.png
+    - Assets/Other/Buildings/Medieval house/Textures & Materials/window.png.meta
+    - Assets/Other/Buildings/Medieval house/Textures & Materials/window_NRM.png
+    - Assets/Other/Buildings/Medieval house/Textures & Materials/window_NRM.png.meta
+    - Assets/Other/Buildings/Medieval house/Textures & Materials/wood.png
+    - Assets/Other/Buildings/Medieval house/Textures & Materials/wood.png.meta
+    - Assets/Other/Buildings/Medieval house/Textures & Materials/wood_NRM.png
+    - Assets/Other/Buildings/Medieval house/Textures & Materials/wood_NRM.png.meta
+    - Assets/Other/Buildings/Medieval house/demo.unity
+    - Assets/Other/Buildings/Medieval house/demo.unity.meta
+    - Assets/Other/Buildings/Medieval house/demoSettings.lighting
+    - Assets/Other/Buildings/Medieval house/demoSettings.lighting.meta
+    - Assets/Other/Buildings/low poly medieval buildings.meta
+    - Assets/Other/Buildings/low poly medieval buildings/Materials.meta
+    - Assets/Other/Buildings/low poly medieval buildings/Materials/ROOF.mat
+    - Assets/Other/Buildings/low poly medieval buildings/Materials/ROOF.mat.meta
+    - Assets/Other/Buildings/low poly medieval buildings/Materials/beam.mat
+    - Assets/Other/Buildings/low poly medieval buildings/Materials/beam.mat.meta
+    - Assets/Other/Buildings/low poly medieval buildings/Materials/beam_albedo.tga
+    - Assets/Other/Buildings/low poly medieval buildings/Materials/beam_albedo.tga.meta
+    - Assets/Other/Buildings/low poly medieval buildings/Materials/beam_metalness_smoothness.tga
+    - Assets/Other/Buildings/low poly medieval buildings/Materials/beam_metalness_smoothness.tga.meta
+    - Assets/Other/Buildings/low poly medieval buildings/Materials/beam_normals.tga
+    - Assets/Other/Buildings/low poly medieval buildings/Materials/beam_normals.tga.meta
+    - Assets/Other/Buildings/low poly medieval buildings/Materials/bricks.mat
+    - Assets/Other/Buildings/low poly medieval buildings/Materials/bricks.mat.meta
+    - Assets/Other/Buildings/low poly medieval buildings/Materials/bricks_albedo.tga
+    - Assets/Other/Buildings/low poly medieval buildings/Materials/bricks_albedo.tga.meta
+    - Assets/Other/Buildings/low poly medieval buildings/Materials/bricks_metalness_smoothness.tga
+    - Assets/Other/Buildings/low poly medieval buildings/Materials/bricks_metalness_smoothness.tga.meta
+    - Assets/Other/Buildings/low poly medieval buildings/Materials/bricks_normals.tga
+    - Assets/Other/Buildings/low poly medieval buildings/Materials/bricks_normals.tga.meta
+    - Assets/Other/Buildings/low poly medieval buildings/Materials/buildings.mat
+    - Assets/Other/Buildings/low poly medieval buildings/Materials/buildings.mat.meta
+    - Assets/Other/Buildings/low poly medieval buildings/Materials/buildings_2.mat
+    - Assets/Other/Buildings/low poly medieval buildings/Materials/buildings_2.mat.meta
+    - Assets/Other/Buildings/low poly medieval buildings/Materials/buildings_2_albedo.tga
+    - Assets/Other/Buildings/low poly medieval buildings/Materials/buildings_2_albedo.tga.meta
+    - Assets/Other/Buildings/low poly medieval buildings/Materials/buildings_2_metalness_smoothness.tga
+    - Assets/Other/Buildings/low poly medieval buildings/Materials/buildings_2_metalness_smoothness.tga.meta
+    - Assets/Other/Buildings/low poly medieval buildings/Materials/buildings_2_normals.tga
+    - Assets/Other/Buildings/low poly medieval buildings/Materials/buildings_2_normals.tga.meta
+    - Assets/Other/Buildings/low poly medieval buildings/Materials/buildings_3.mat
+    - Assets/Other/Buildings/low poly medieval buildings/Materials/buildings_3.mat.meta
+    - Assets/Other/Buildings/low poly medieval buildings/Materials/buildings_3__normals.tga
+    - Assets/Other/Buildings/low poly medieval buildings/Materials/buildings_3__normals.tga.meta
+    - Assets/Other/Buildings/low poly medieval buildings/Materials/buildings_3_albedo.tga
+    - Assets/Other/Buildings/low poly medieval buildings/Materials/buildings_3_albedo.tga.meta
+    - Assets/Other/Buildings/low poly medieval buildings/Materials/buildings_3_metallness_smoothness.tga
+    - Assets/Other/Buildings/low poly medieval buildings/Materials/buildings_3_metallness_smoothness.tga.meta
+    - Assets/Other/Buildings/low poly medieval buildings/Materials/buildings_albedo.tga
+    - Assets/Other/Buildings/low poly medieval buildings/Materials/buildings_albedo.tga.meta
+    - Assets/Other/Buildings/low poly medieval buildings/Materials/buildings_metalness_smoothness.tga
+    - Assets/Other/Buildings/low poly medieval buildings/Materials/buildings_metalness_smoothness.tga.meta
+    - Assets/Other/Buildings/low poly medieval buildings/Materials/buildings_normals.tga
+    - Assets/Other/Buildings/low poly medieval buildings/Materials/buildings_normals.tga.meta
+    - Assets/Other/Buildings/low poly medieval buildings/Materials/planks.mat
+    - Assets/Other/Buildings/low poly medieval buildings/Materials/planks.mat.meta
+    - Assets/Other/Buildings/low poly medieval buildings/Materials/planks_2.mat
+    - Assets/Other/Buildings/low poly medieval buildings/Materials/planks_2.mat.meta
+    - Assets/Other/Buildings/low poly medieval buildings/Materials/planks_2_albedo.tga
+    - Assets/Other/Buildings/low poly medieval buildings/Materials/planks_2_albedo.tga.meta
+    - Assets/Other/Buildings/low poly medieval buildings/Materials/planks_2_normals.tga
+    - Assets/Other/Buildings/low poly medieval buildings/Materials/planks_2_normals.tga.meta
+    - Assets/Other/Buildings/low poly medieval buildings/Materials/planks_albedo.tga
+    - Assets/Other/Buildings/low poly medieval buildings/Materials/planks_albedo.tga.meta
+    - Assets/Other/Buildings/low poly medieval buildings/Materials/planks_metalness_smoothness.tga
+    - Assets/Other/Buildings/low poly medieval buildings/Materials/planks_metalness_smoothness.tga.meta
+    - Assets/Other/Buildings/low poly medieval buildings/Materials/planks_normals.tga
+    - Assets/Other/Buildings/low poly medieval buildings/Materials/planks_normals.tga.meta
+    - Assets/Other/Buildings/low poly medieval buildings/Materials/plaster.mat
+    - Assets/Other/Buildings/low poly medieval buildings/Materials/plaster.mat.meta
+    - Assets/Other/Buildings/low poly medieval buildings/Materials/plaster2.mat
+    - Assets/Other/Buildings/low poly medieval buildings/Materials/plaster2.mat.meta
+    - Assets/Other/Buildings/low poly medieval buildings/Materials/plaster2_albedo.tga
+    - Assets/Other/Buildings/low poly medieval buildings/Materials/plaster2_albedo.tga.meta
+    - Assets/Other/Buildings/low poly medieval buildings/Materials/plaster2_metalness_smoothness.tga
+    - Assets/Other/Buildings/low poly medieval buildings/Materials/plaster2_metalness_smoothness.tga.meta
+    - Assets/Other/Buildings/low poly medieval buildings/Materials/plaster2_normals.tga
+    - Assets/Other/Buildings/low poly medieval buildings/Materials/plaster2_normals.tga.meta
+    - Assets/Other/Buildings/low poly medieval buildings/Materials/plaster_albedo.tga
+    - Assets/Other/Buildings/low poly medieval buildings/Materials/plaster_albedo.tga.meta
+    - Assets/Other/Buildings/low poly medieval buildings/Materials/plaster_metalness_smoothness.tga
+    - Assets/Other/Buildings/low poly medieval buildings/Materials/plaster_metalness_smoothness.tga.meta
+    - Assets/Other/Buildings/low poly medieval buildings/Materials/plaster_normals.tga
+    - Assets/Other/Buildings/low poly medieval buildings/Materials/plaster_normals.tga.meta
+    - Assets/Other/Buildings/low poly medieval buildings/Materials/roof_2.mat
+    - Assets/Other/Buildings/low poly medieval buildings/Materials/roof_2.mat.meta
+    - Assets/Other/Buildings/low poly medieval buildings/Materials/roof_2_albedo.tga
+    - Assets/Other/Buildings/low poly medieval buildings/Materials/roof_2_albedo.tga.meta
+    - Assets/Other/Buildings/low poly medieval buildings/Materials/roof_2_metalness_smoothness.tga
+    - Assets/Other/Buildings/low poly medieval buildings/Materials/roof_2_metalness_smoothness.tga.meta
+    - Assets/Other/Buildings/low poly medieval buildings/Materials/roof_2_normals.tga
+    - Assets/Other/Buildings/low poly medieval buildings/Materials/roof_2_normals.tga.meta
+    - Assets/Other/Buildings/low poly medieval buildings/Materials/roof_albedo.tga
+    - Assets/Other/Buildings/low poly medieval buildings/Materials/roof_albedo.tga.meta
+    - Assets/Other/Buildings/low poly medieval buildings/Materials/roof_metalness_roughness.tga
+    - Assets/Other/Buildings/low poly medieval buildings/Materials/roof_metalness_roughness.tga.meta
+    - Assets/Other/Buildings/low poly medieval buildings/Materials/roof_normals.tga
+    - Assets/Other/Buildings/low poly medieval buildings/Materials/roof_normals.tga.meta
+    - Assets/Other/Buildings/low poly medieval buildings/Materials/thatch.mat
+    - Assets/Other/Buildings/low poly medieval buildings/Materials/thatch.mat.meta
+    - Assets/Other/Buildings/low poly medieval buildings/Materials/thatch_albedo.tga
+    - Assets/Other/Buildings/low poly medieval buildings/Materials/thatch_albedo.tga.meta
+    - Assets/Other/Buildings/low poly medieval buildings/Materials/thatch_ao.tga
+    - Assets/Other/Buildings/low poly medieval buildings/Materials/thatch_ao.tga.meta
+    - Assets/Other/Buildings/low poly medieval buildings/Materials/thatch_normals.tga
+    - Assets/Other/Buildings/low poly medieval buildings/Materials/thatch_normals.tga.meta
+    - Assets/Other/Buildings/low poly medieval buildings/Materials/wood.mat
+    - Assets/Other/Buildings/low poly medieval buildings/Materials/wood.mat.meta
+    - Assets/Other/Buildings/low poly medieval buildings/Materials/wood_albedo.tga
+    - Assets/Other/Buildings/low poly medieval buildings/Materials/wood_albedo.tga.meta
+    - Assets/Other/Buildings/low poly medieval buildings/Materials/wood_metalness_roughness.tga
+    - Assets/Other/Buildings/low poly medieval buildings/Materials/wood_metalness_roughness.tga.meta
+    - Assets/Other/Buildings/low poly medieval buildings/Materials/wood_normals.tga
+    - Assets/Other/Buildings/low poly medieval buildings/Materials/wood_normals.tga.meta
+    - Assets/Other/Buildings/low poly medieval buildings/bakery.fbx
+    - Assets/Other/Buildings/low poly medieval buildings/bakery.fbx.meta
+    - Assets/Other/Buildings/low poly medieval buildings/barrack.fbx
+    - Assets/Other/Buildings/low poly medieval buildings/barrack.fbx.meta
+    - Assets/Other/Buildings/low poly medieval buildings/dairy.fbx
+    - Assets/Other/Buildings/low poly medieval buildings/dairy.fbx.meta
+    - Assets/Other/Buildings/low poly medieval buildings/gate.fbx
+    - Assets/Other/Buildings/low poly medieval buildings/gate.fbx.meta
+    - Assets/Other/Buildings/low poly medieval buildings/house.fbx
+    - Assets/Other/Buildings/low poly medieval buildings/house.fbx.meta
+    - Assets/Other/Buildings/low poly medieval buildings/ironworks.fbx
+    - Assets/Other/Buildings/low poly medieval buildings/ironworks.fbx.meta
+    - Assets/Other/Buildings/low poly medieval buildings/market.fbx
+    - Assets/Other/Buildings/low poly medieval buildings/market.fbx.meta
+    - Assets/Other/Buildings/low poly medieval buildings/mine.fbx
+    - Assets/Other/Buildings/low poly medieval buildings/mine.fbx.meta
+    - Assets/Other/Buildings/low poly medieval buildings/palisade.fbx
+    - Assets/Other/Buildings/low poly medieval buildings/palisade.fbx.meta
+    - Assets/Other/Buildings/low poly medieval buildings/quarry.fbx
+    - Assets/Other/Buildings/low poly medieval buildings/quarry.fbx.meta
+    - Assets/Other/Buildings/low poly medieval buildings/readme.txt
+    - Assets/Other/Buildings/low poly medieval buildings/readme.txt.meta
+    - Assets/Other/Buildings/low poly medieval buildings/sawmill.fbx
+    - Assets/Other/Buildings/low poly medieval buildings/sawmill.fbx.meta
+    - Assets/Other/Buildings/low poly medieval buildings/scene.unity
+    - Assets/Other/Buildings/low poly medieval buildings/scene.unity.meta
+    - Assets/Other/Buildings/low poly medieval buildings/sceneSettings.lighting
+    - Assets/Other/Buildings/low poly medieval buildings/sceneSettings.lighting.meta
+    - Assets/Other/Buildings/low poly medieval buildings/slaughterhouse.fbx
+    - Assets/Other/Buildings/low poly medieval buildings/slaughterhouse.fbx.meta
+    - Assets/Other/Buildings/low poly medieval buildings/smith.fbx
+    - Assets/Other/Buildings/low poly medieval buildings/smith.fbx.meta
+    - Assets/Other/Buildings/low poly medieval buildings/stairs.fbx
+    - Assets/Other/Buildings/low poly medieval buildings/stairs.fbx.meta
+    - Assets/Other/Buildings/low poly medieval buildings/tower.fbx
+    - Assets/Other/Buildings/low poly medieval buildings/tower.fbx.meta
+    - Assets/Other/Buildings/low poly medieval buildings/tower_corner.fbx
+    - Assets/Other/Buildings/low poly medieval buildings/tower_corner.fbx.meta
+    - Assets/Other/Buildings/low poly medieval buildings/tower_round.fbx
+    - Assets/Other/Buildings/low poly medieval buildings/tower_round.fbx.meta
+    - Assets/Other/Buildings/low poly medieval buildings/tower_small.fbx
+    - Assets/Other/Buildings/low poly medieval buildings/tower_small.fbx.meta
+    - Assets/Other/Buildings/low poly medieval buildings/wall.fbx
+    - Assets/Other/Buildings/low poly medieval buildings/wall.fbx.meta
+    - Assets/Other/Buildings/low poly medieval buildings/warehouse.fbx
+    - Assets/Other/Buildings/low poly medieval buildings/warehouse.fbx.meta
+    - Assets/Other/Buildings/low poly medieval buildings/windmill.fbx
+    - Assets/Other/Buildings/low poly medieval buildings/windmill.fbx.meta
+    - Assets/Other/Enemys.meta
+    - Assets/Other/Enemys/EnemyLevel1.meta
+    - Assets/Other/Enemys/EnemyLevel1/Animations.meta
+    - Assets/Other/Enemys/EnemyLevel1/Animations/Slime.meta
+    - Assets/Other/Enemys/EnemyLevel1/Animations/Slime/Attack01_Slime_Anim.fbx
+    - Assets/Other/Enemys/EnemyLevel1/Animations/Slime/Attack01_Slime_Anim.fbx.meta
+    - Assets/Other/Enemys/EnemyLevel1/Animations/Slime/Attack02_Slime_Anim.fbx
+    - Assets/Other/Enemys/EnemyLevel1/Animations/Slime/Attack02_Slime_Anim.fbx.meta
+    - Assets/Other/Enemys/EnemyLevel1/Animations/Slime/Die_Slime_Anim.fbx
+    - Assets/Other/Enemys/EnemyLevel1/Animations/Slime/Die_Slime_Anim.fbx.meta
+    - Assets/Other/Enemys/EnemyLevel1/Animations/Slime/Dizzy_Slime_Anim.fbx
+    - Assets/Other/Enemys/EnemyLevel1/Animations/Slime/Dizzy_Slime_Anim.fbx.meta
+    - Assets/Other/Enemys/EnemyLevel1/Animations/Slime/GetHit_Slime_Anim.fbx
+    - Assets/Other/Enemys/EnemyLevel1/Animations/Slime/GetHit_Slime_Anim.fbx.meta
+    - Assets/Other/Enemys/EnemyLevel1/Animations/Slime/IdleBattle_Slime_Anim.fbx
+    - Assets/Other/Enemys/EnemyLevel1/Animations/Slime/IdleBattle_Slime_Anim.fbx.meta
+    - Assets/Other/Enemys/EnemyLevel1/Animations/Slime/IdleNormal_Slime_Anim.fbx
+    - Assets/Other/Enemys/EnemyLevel1/Animations/Slime/IdleNormal_Slime_Anim.fbx.meta
+    - Assets/Other/Enemys/EnemyLevel1/Animations/Slime/Run_Slime_Anim.fbx
+    - Assets/Other/Enemys/EnemyLevel1/Animations/Slime/Run_Slime_Anim.fbx.meta
+    - Assets/Other/Enemys/EnemyLevel1/Animations/Slime/SenseSomethingRoutine_Slime_Anim.fbx
+    - Assets/Other/Enemys/EnemyLevel1/Animations/Slime/SenseSomethingRoutine_Slime_Anim.fbx.meta
+    - Assets/Other/Enemys/EnemyLevel1/Animations/Slime/SenseSomethingStart_Slime_Anim.fbx
+    - Assets/Other/Enemys/EnemyLevel1/Animations/Slime/SenseSomethingStart_Slime_Anim.fbx.meta
+    - Assets/Other/Enemys/EnemyLevel1/Animations/Slime/Taunt_Slime_Anim.fbx
+    - Assets/Other/Enemys/EnemyLevel1/Animations/Slime/Taunt_Slime_Anim.fbx.meta
+    - Assets/Other/Enemys/EnemyLevel1/Animations/Slime/Victory_Slime_Anim.fbx
+    - Assets/Other/Enemys/EnemyLevel1/Animations/Slime/Victory_Slime_Anim.fbx.meta
+    - Assets/Other/Enemys/EnemyLevel1/Animations/Slime/WalkBack_Slime_Anim.fbx
+    - Assets/Other/Enemys/EnemyLevel1/Animations/Slime/WalkBack_Slime_Anim.fbx.meta
+    - Assets/Other/Enemys/EnemyLevel1/Animations/Slime/WalkLeft_Slime_Anim.fbx
+    - Assets/Other/Enemys/EnemyLevel1/Animations/Slime/WalkLeft_Slime_Anim.fbx.meta
+    - Assets/Other/Enemys/EnemyLevel1/Animations/Slime/WalkRight_Slime_Anim.fbx
+    - Assets/Other/Enemys/EnemyLevel1/Animations/Slime/WalkRight_Slime_Anim.fbx.meta
+    - Assets/Other/Enemys/EnemyLevel1/Animations/Slime/Walk_Slime_Anim.fbx
+    - Assets/Other/Enemys/EnemyLevel1/Animations/Slime/Walk_Slime_Anim.fbx.meta
+    - Assets/Other/Enemys/EnemyLevel1/Animations/TurtleShell.meta
+    - Assets/Other/Enemys/EnemyLevel1/Animations/TurtleShell/Attack01_TurtleShell_Anim.fbx
+    - Assets/Other/Enemys/EnemyLevel1/Animations/TurtleShell/Attack01_TurtleShell_Anim.fbx.meta
+    - Assets/Other/Enemys/EnemyLevel1/Animations/TurtleShell/Attack02_TurtleShell_Anim.fbx
+    - Assets/Other/Enemys/EnemyLevel1/Animations/TurtleShell/Attack02_TurtleShell_Anim.fbx.meta
+    - Assets/Other/Enemys/EnemyLevel1/Animations/TurtleShell/DefendHit_TurtleShell_Anim.fbx
+    - Assets/Other/Enemys/EnemyLevel1/Animations/TurtleShell/DefendHit_TurtleShell_Anim.fbx.meta
+    - Assets/Other/Enemys/EnemyLevel1/Animations/TurtleShell/Defend_TurtleShell_Anim.fbx
+    - Assets/Other/Enemys/EnemyLevel1/Animations/TurtleShell/Defend_TurtleShell_Anim.fbx.meta
+    - Assets/Other/Enemys/EnemyLevel1/Animations/TurtleShell/Die_TurtleShell_Anim.fbx
+    - Assets/Other/Enemys/EnemyLevel1/Animations/TurtleShell/Die_TurtleShell_Anim.fbx.meta
+    - Assets/Other/Enemys/EnemyLevel1/Animations/TurtleShell/Dizzy_TurtleShell_Anim.fbx
+    - Assets/Other/Enemys/EnemyLevel1/Animations/TurtleShell/Dizzy_TurtleShell_Anim.fbx.meta
+    - Assets/Other/Enemys/EnemyLevel1/Animations/TurtleShell/GetHit_TurtleShell_Anim.fbx
+    - Assets/Other/Enemys/EnemyLevel1/Animations/TurtleShell/GetHit_TurtleShell_Anim.fbx.meta
+    - Assets/Other/Enemys/EnemyLevel1/Animations/TurtleShell/IdleBattle_TurtleShell_Anim.fbx
+    - Assets/Other/Enemys/EnemyLevel1/Animations/TurtleShell/IdleBattle_TurtleShell_Anim.fbx.meta
+    - Assets/Other/Enemys/EnemyLevel1/Animations/TurtleShell/IdleNormal_TurtleShell_Anim.fbx
+    - Assets/Other/Enemys/EnemyLevel1/Animations/TurtleShell/IdleNormal_TurtleShell_Anim.fbx.meta
+    - Assets/Other/Enemys/EnemyLevel1/Animations/TurtleShell/Run_TurtleShell_Anim.fbx
+    - Assets/Other/Enemys/EnemyLevel1/Animations/TurtleShell/Run_TurtleShell_Anim.fbx.meta
+    - Assets/Other/Enemys/EnemyLevel1/Animations/TurtleShell/SenseSomethingRT_TurtleShell_Anim.fbx
+    - Assets/Other/Enemys/EnemyLevel1/Animations/TurtleShell/SenseSomethingRT_TurtleShell_Anim.fbx.meta
+    - Assets/Other/Enemys/EnemyLevel1/Animations/TurtleShell/SenseSomethingStart_TurtleShell_Anim.fbx
+    - Assets/Other/Enemys/EnemyLevel1/Animations/TurtleShell/SenseSomethingStart_TurtleShell_Anim.fbx.meta
+    - Assets/Other/Enemys/EnemyLevel1/Animations/TurtleShell/Taunt_TurtleShell_Anim.fbx
+    - Assets/Other/Enemys/EnemyLevel1/Animations/TurtleShell/Taunt_TurtleShell_Anim.fbx.meta
+    - Assets/Other/Enemys/EnemyLevel1/Animations/TurtleShell/Victory_TurtleShell_Anim.fbx
+    - Assets/Other/Enemys/EnemyLevel1/Animations/TurtleShell/Victory_TurtleShell_Anim.fbx.meta
+    - Assets/Other/Enemys/EnemyLevel1/Animations/TurtleShell/WalkBack_TurtleShell_Anim.fbx
+    - Assets/Other/Enemys/EnemyLevel1/Animations/TurtleShell/WalkBack_TurtleShell_Anim.fbx.meta
+    - Assets/Other/Enemys/EnemyLevel1/Animations/TurtleShell/WalkLeft_TurtleShell_Anim.fbx
+    - Assets/Other/Enemys/EnemyLevel1/Animations/TurtleShell/WalkLeft_TurtleShell_Anim.fbx.meta
+    - Assets/Other/Enemys/EnemyLevel1/Animations/TurtleShell/WalkRight_TurtleShell_Anim.fbx
+    - Assets/Other/Enemys/EnemyLevel1/Animations/TurtleShell/WalkRight_TurtleShell_Anim.fbx.meta
+    - Assets/Other/Enemys/EnemyLevel1/Animations/TurtleShell/Walk_TurtleShell_Anim.fbx
+    - Assets/Other/Enemys/EnemyLevel1/Animations/TurtleShell/Walk_TurtleShell_Anim.fbx.meta
+    - Assets/Other/Enemys/EnemyLevel1/Animators.meta
+    - Assets/Other/Enemys/EnemyLevel1/Animators/Slime.controller
+    - Assets/Other/Enemys/EnemyLevel1/Animators/Slime.controller.meta
+    - Assets/Other/Enemys/EnemyLevel1/Animators/TurtleShell.controller
+    - Assets/Other/Enemys/EnemyLevel1/Animators/TurtleShell.controller.meta
+    - Assets/Other/Enemys/EnemyLevel1/Materials.meta
+    - Assets/Other/Enemys/EnemyLevel1/Materials/PolyartDefault.mat
+    - Assets/Other/Enemys/EnemyLevel1/Materials/PolyartDefault.mat.meta
+    - Assets/Other/Enemys/EnemyLevel1/Materials/Skybox_Mat.mat
+    - Assets/Other/Enemys/EnemyLevel1/Materials/Skybox_Mat.mat.meta
+    - Assets/Other/Enemys/EnemyLevel1/Materials/SlimePBR.mat
+    - Assets/Other/Enemys/EnemyLevel1/Materials/SlimePBR.mat.meta
+    - Assets/Other/Enemys/EnemyLevel1/Materials/Stage.mat
+    - Assets/Other/Enemys/EnemyLevel1/Materials/Stage.mat.meta
+    - Assets/Other/Enemys/EnemyLevel1/Materials/TurtleShellPBR.mat
+    - Assets/Other/Enemys/EnemyLevel1/Materials/TurtleShellPBR.mat.meta
+    - Assets/Other/Enemys/EnemyLevel1/Meshes.meta
+    - Assets/Other/Enemys/EnemyLevel1/Meshes/SlimeMesh.fbx
+    - Assets/Other/Enemys/EnemyLevel1/Meshes/SlimeMesh.fbx.meta
+    - Assets/Other/Enemys/EnemyLevel1/Meshes/SlimeMeshPBR.fbx
+    - Assets/Other/Enemys/EnemyLevel1/Meshes/SlimeMeshPBR.fbx.meta
+    - Assets/Other/Enemys/EnemyLevel1/Meshes/StageMesh.fbx
+    - Assets/Other/Enemys/EnemyLevel1/Meshes/StageMesh.fbx.meta
+    - Assets/Other/Enemys/EnemyLevel1/Meshes/TurtleShellMesh.fbx
+    - Assets/Other/Enemys/EnemyLevel1/Meshes/TurtleShellMesh.fbx.meta
+    - Assets/Other/Enemys/EnemyLevel1/Meshes/TurtleShellMeshPBR.fbx
+    - Assets/Other/Enemys/EnemyLevel1/Meshes/TurtleShellMeshPBR.fbx.meta
+    - Assets/Other/Enemys/EnemyLevel1/Prefabs.meta
+    - Assets/Other/Enemys/EnemyLevel1/Prefabs/Slime.prefab
+    - Assets/Other/Enemys/EnemyLevel1/Prefabs/Slime.prefab.meta
+    - Assets/Other/Enemys/EnemyLevel1/Prefabs/SlimePBR.prefab
+    - Assets/Other/Enemys/EnemyLevel1/Prefabs/SlimePBR.prefab.meta
+    - Assets/Other/Enemys/EnemyLevel1/Prefabs/TurtleShell.prefab
+    - Assets/Other/Enemys/EnemyLevel1/Prefabs/TurtleShell.prefab.meta
+    - Assets/Other/Enemys/EnemyLevel1/Prefabs/TurtleShellPBR.prefab
+    - Assets/Other/Enemys/EnemyLevel1/Prefabs/TurtleShellPBR.prefab.meta
+    - Assets/Other/Enemys/EnemyLevel1/Promotion.jpg
+    - Assets/Other/Enemys/EnemyLevel1/Promotion.jpg.meta
+    - Assets/Other/Enemys/EnemyLevel1/Scenes.meta
+    - Assets/Other/Enemys/EnemyLevel1/Scenes/DuoScene.unity
+    - Assets/Other/Enemys/EnemyLevel1/Scenes/DuoScene.unity.meta
+    - Assets/Other/Enemys/EnemyLevel1/Scenes/DuoSceneSettings.lighting
+    - Assets/Other/Enemys/EnemyLevel1/Scenes/DuoSceneSettings.lighting.meta
+    - Assets/Other/Enemys/EnemyLevel1/Textures.meta
+    - Assets/Other/Enemys/EnemyLevel1/Textures/PBRSlimeAO.png
+    - Assets/Other/Enemys/EnemyLevel1/Textures/PBRSlimeAO.png.meta
+    - Assets/Other/Enemys/EnemyLevel1/Textures/PBRSlimeAlbedo.png
+    - Assets/Other/Enemys/EnemyLevel1/Textures/PBRSlimeAlbedo.png.meta
+    - Assets/Other/Enemys/EnemyLevel1/Textures/PBRSlimeMetallicSmoothness.png
+    - Assets/Other/Enemys/EnemyLevel1/Textures/PBRSlimeMetallicSmoothness.png.meta
+    - Assets/Other/Enemys/EnemyLevel1/Textures/PBRSlimeNormal.png
+    - Assets/Other/Enemys/EnemyLevel1/Textures/PBRSlimeNormal.png.meta
+    - Assets/Other/Enemys/EnemyLevel1/Textures/PBRTurtleShellAO.png
+    - Assets/Other/Enemys/EnemyLevel1/Textures/PBRTurtleShellAO.png.meta
+    - Assets/Other/Enemys/EnemyLevel1/Textures/PBRTurtleShellAlbedo.png
+    - Assets/Other/Enemys/EnemyLevel1/Textures/PBRTurtleShellAlbedo.png.meta
+    - Assets/Other/Enemys/EnemyLevel1/Textures/PBRTurtleShellMetalicSmoothness.png
+    - Assets/Other/Enemys/EnemyLevel1/Textures/PBRTurtleShellMetalicSmoothness.png.meta
+    - Assets/Other/Enemys/EnemyLevel1/Textures/PBRTurtleShellNormal.png
+    - Assets/Other/Enemys/EnemyLevel1/Textures/PBRTurtleShellNormal.png.meta
+    - Assets/Other/Enemys/EnemyLevel1/Textures/PolyartDefaultTex.png
+    - Assets/Other/Enemys/EnemyLevel1/Textures/PolyartDefaultTex.png.meta
+    - Assets/Other/Enemys/EnemyLevel2.meta
+    - Assets/Other/Enemys/EnemyLevel2/Cute series demo assets.meta
+    - Assets/Other/Enemys/EnemyLevel2/Cute series demo assets/Cute Ortho.asset
+    - Assets/Other/Enemys/EnemyLevel2/Cute series demo assets/Cute Ortho.asset.meta
+    - Assets/Other/Enemys/EnemyLevel2/Cute series demo assets/Cute Perspective.asset
+    - Assets/Other/Enemys/EnemyLevel2/Cute series demo assets/Cute Perspective.asset.meta
+    - Assets/Other/Enemys/EnemyLevel2/Cute series demo assets/Ground.mat
+    - Assets/Other/Enemys/EnemyLevel2/Cute series demo assets/Ground.mat.meta
+    - Assets/Other/Enemys/EnemyLevel2/Cute series demo assets/Ground.prefab
+    - Assets/Other/Enemys/EnemyLevel2/Cute series demo assets/Ground.prefab.meta
+    - Assets/Other/Enemys/EnemyLevel2/Cute series demo assets/Rotate.anim
+    - Assets/Other/Enemys/EnemyLevel2/Cute series demo assets/Rotate.anim.meta
+    - Assets/Other/Enemys/EnemyLevel2/Cute series demo assets/Rotate.controller
+    - Assets/Other/Enemys/EnemyLevel2/Cute series demo assets/Rotate.controller.meta
+    - Assets/Other/Enemys/EnemyLevel2/FBX.meta
+    - Assets/Other/Enemys/EnemyLevel2/FBX/Burrow.FBX
+    - Assets/Other/Enemys/EnemyLevel2/FBX/Burrow.FBX.meta
+    - Assets/Other/Enemys/EnemyLevel2/FBX/Burrow@Walk Forward In Place.FBX
+    - Assets/Other/Enemys/EnemyLevel2/FBX/Burrow@Walk Forward In Place.FBX.meta
+    - Assets/Other/Enemys/EnemyLevel2/FBX/Burrow@Walk Forward W Root.FBX
+    - Assets/Other/Enemys/EnemyLevel2/FBX/Burrow@Walk Forward W Root.FBX.meta
+    - Assets/Other/Enemys/EnemyLevel2/FBX/Free Burrow.controller
+    - Assets/Other/Enemys/EnemyLevel2/FBX/Free Burrow.controller.meta
+    - Assets/Other/Enemys/EnemyLevel2/Materials.meta
+    - Assets/Other/Enemys/EnemyLevel2/Materials/Free Burrow.mat
+    - Assets/Other/Enemys/EnemyLevel2/Materials/Free Burrow.mat.meta
+    - Assets/Other/Enemys/EnemyLevel2/Prefabs.meta
+    - Assets/Other/Enemys/EnemyLevel2/Prefabs/Free Burrow.prefab
+    - Assets/Other/Enemys/EnemyLevel2/Prefabs/Free Burrow.prefab.meta
+    - Assets/Other/Enemys/EnemyLevel2/Read Me.meta
+    - Assets/Other/Enemys/EnemyLevel2/Read Me/Evolve your monsters - Cute Series.pdf
+    - Assets/Other/Enemys/EnemyLevel2/Read Me/Evolve your monsters - Cute Series.pdf.meta
+    - Assets/Other/Enemys/EnemyLevel2/Read Me/General Introduction.pdf
+    - Assets/Other/Enemys/EnemyLevel2/Read Me/General Introduction.pdf.meta
+    - Assets/Other/Enemys/EnemyLevel2/Scenes.meta
+    - Assets/Other/Enemys/EnemyLevel2/Scenes/Demo.unity
+    - Assets/Other/Enemys/EnemyLevel2/Scenes/Demo.unity.meta
+    - Assets/Other/Enemys/EnemyLevel2/Textures.meta
+    - Assets/Other/Enemys/EnemyLevel2/Textures/Free Burrow.psd
+    - Assets/Other/Enemys/EnemyLevel2/Textures/Free Burrow.psd.meta
+    - Assets/Other/Enviroment.meta
+    - Assets/Other/Enviroment/Fantasy Forest Environment Free Sample.meta
+    - Assets/Other/Enviroment/Fantasy Forest Environment Free Sample/Materials.meta
+    - Assets/Other/Enviroment/Fantasy Forest Environment Free Sample/Materials/bark01_bottom.mat
+    - Assets/Other/Enviroment/Fantasy Forest Environment Free Sample/Materials/bark01_bottom.mat.meta
+    - Assets/Other/Enviroment/Fantasy Forest Environment Free Sample/Materials/dirt01.mat
+    - Assets/Other/Enviroment/Fantasy Forest Environment Free Sample/Materials/dirt01.mat.meta
+    - Assets/Other/Enviroment/Fantasy Forest Environment Free Sample/Materials/grass01.mat
+    - Assets/Other/Enviroment/Fantasy Forest Environment Free Sample/Materials/grass01.mat.meta
+    - Assets/Other/Enviroment/Fantasy Forest Environment Free Sample/Materials/grassmesh.mat
+    - Assets/Other/Enviroment/Fantasy Forest Environment Free Sample/Materials/grassmesh.mat.meta
+    - Assets/Other/Enviroment/Fantasy Forest Environment Free Sample/Materials/skyMaterial.mat
+    - Assets/Other/Enviroment/Fantasy Forest Environment Free Sample/Materials/skyMaterial.mat.meta
+    - Assets/Other/Enviroment/Fantasy Forest Environment Free Sample/Materials/tree_branches.mat
+    - Assets/Other/Enviroment/Fantasy Forest Environment Free Sample/Materials/tree_branches.mat.meta
+    - Assets/Other/Enviroment/Fantasy Forest Environment Free Sample/Meshes.meta
+    - Assets/Other/Enviroment/Fantasy Forest Environment Free Sample/Meshes/Prefabs.meta
+    - Assets/Other/Enviroment/Fantasy Forest Environment Free Sample/Meshes/Prefabs/grass01.prefab
+    - Assets/Other/Enviroment/Fantasy Forest Environment Free Sample/Meshes/Prefabs/grass01.prefab.meta
+    - Assets/Other/Enviroment/Fantasy Forest Environment Free Sample/Meshes/Prefabs/tree_1.prefab
+    - Assets/Other/Enviroment/Fantasy Forest Environment Free Sample/Meshes/Prefabs/tree_1.prefab.meta
+    - Assets/Other/Enviroment/Fantasy Forest Environment Free Sample/Meshes/Source.meta
+    - Assets/Other/Enviroment/Fantasy Forest Environment Free Sample/Meshes/Source/grass01.FBX
+    - Assets/Other/Enviroment/Fantasy Forest Environment Free Sample/Meshes/Source/grass01.FBX.meta
+    - Assets/Other/Enviroment/Fantasy Forest Environment Free Sample/Meshes/Source/tree_1.fbx
+    - Assets/Other/Enviroment/Fantasy Forest Environment Free Sample/Meshes/Source/tree_1.fbx.meta
+    - Assets/Other/Enviroment/Fantasy Forest Environment Free Sample/PostProcessing
+      Profile.asset
+    - Assets/Other/Enviroment/Fantasy Forest Environment Free Sample/PostProcessing
+      Profile.asset.meta
+    - Assets/Other/Enviroment/Fantasy Forest Environment Free Sample/Scenes.meta
+    - Assets/Other/Enviroment/Fantasy Forest Environment Free Sample/Scenes/New Terrain.asset
+    - Assets/Other/Enviroment/Fantasy Forest Environment Free Sample/Scenes/New Terrain.asset.meta
+    - Assets/Other/Enviroment/Fantasy Forest Environment Free Sample/Scenes/assets.unity
+    - Assets/Other/Enviroment/Fantasy Forest Environment Free Sample/Scenes/assets.unity.meta
+    - Assets/Other/Enviroment/Fantasy Forest Environment Free Sample/Scenes/demoScene_free.unity
+    - Assets/Other/Enviroment/Fantasy Forest Environment Free Sample/Scenes/demoScene_free.unity.meta
+    - Assets/Other/Enviroment/Fantasy Forest Environment Free Sample/StandardNoCulling.shader
+    - Assets/Other/Enviroment/Fantasy Forest Environment Free Sample/StandardNoCulling.shader.meta
+    - Assets/Other/Enviroment/Fantasy Forest Environment Free Sample/Textures.meta
+    - Assets/Other/Enviroment/Fantasy Forest Environment Free Sample/Textures/bark01_bottom.tga
+    - Assets/Other/Enviroment/Fantasy Forest Environment Free Sample/Textures/bark01_bottom.tga.meta
+    - Assets/Other/Enviroment/Fantasy Forest Environment Free Sample/Textures/dirt01.tga
+    - Assets/Other/Enviroment/Fantasy Forest Environment Free Sample/Textures/dirt01.tga.meta
+    - Assets/Other/Enviroment/Fantasy Forest Environment Free Sample/Textures/grass01.tga
+    - Assets/Other/Enviroment/Fantasy Forest Environment Free Sample/Textures/grass01.tga.meta
+    - Assets/Other/Enviroment/Fantasy Forest Environment Free Sample/Textures/grass01_b.tga
+    - Assets/Other/Enviroment/Fantasy Forest Environment Free Sample/Textures/grass01_b.tga.meta
+    - Assets/Other/Enviroment/Fantasy Forest Environment Free Sample/Textures/grassmesh.png
+    - Assets/Other/Enviroment/Fantasy Forest Environment Free Sample/Textures/grassmesh.png.meta
+    - Assets/Other/Enviroment/Fantasy Forest Environment Free Sample/Textures/tree_branches.png
+    - Assets/Other/Enviroment/Fantasy Forest Environment Free Sample/Textures/tree_branches.png.meta
+    - Assets/Other/Enviroment/Rocks.meta
+    - Assets/Other/Enviroment/Rocks/Demo.meta
+    - Assets/Other/Enviroment/Rocks/Demo/gray.mat
+    - Assets/Other/Enviroment/Rocks/Demo/gray.mat.meta
+    - Assets/Other/Enviroment/Rocks/Demo/rotation_animation.anim
+    - Assets/Other/Enviroment/Rocks/Demo/rotation_animation.anim.meta
+    - Assets/Other/Enviroment/Rocks/Demo/test_scene.unity
+    - Assets/Other/Enviroment/Rocks/Demo/test_scene.unity.meta
+    - Assets/Other/Enviroment/Rocks/Rocks.meta
+    - Assets/Other/Enviroment/Rocks/Rocks/Prefabs.meta
+    - Assets/Other/Enviroment/Rocks/Rocks/Prefabs/Rock1A.prefab
+    - Assets/Other/Enviroment/Rocks/Rocks/Prefabs/Rock1A.prefab.meta
+    - Assets/Other/Enviroment/Rocks/Rocks/Prefabs/Rock1B.prefab
+    - Assets/Other/Enviroment/Rocks/Rocks/Prefabs/Rock1B.prefab.meta
+    - Assets/Other/Enviroment/Rocks/Rocks/Prefabs/Rock1C.prefab
+    - Assets/Other/Enviroment/Rocks/Rocks/Prefabs/Rock1C.prefab.meta
+    - Assets/Other/Enviroment/Rocks/Rocks/Prefabs/Rock1D.prefab
+    - Assets/Other/Enviroment/Rocks/Rocks/Prefabs/Rock1D.prefab.meta
+    - Assets/Other/Enviroment/Rocks/Rocks/Prefabs/Rock1E.prefab
+    - Assets/Other/Enviroment/Rocks/Rocks/Prefabs/Rock1E.prefab.meta
+    - Assets/Other/Enviroment/Rocks/Rocks/Prefabs/Rock1LOD_grup1.prefab
+    - Assets/Other/Enviroment/Rocks/Rocks/Prefabs/Rock1LOD_grup1.prefab.meta
+    - Assets/Other/Enviroment/Rocks/Rocks/Prefabs/Rock1LOD_grup2.prefab
+    - Assets/Other/Enviroment/Rocks/Rocks/Prefabs/Rock1LOD_grup2.prefab.meta
+    - Assets/Other/Enviroment/Rocks/Rocks/Prefabs/Rock1LOD_grup3.prefab
+    - Assets/Other/Enviroment/Rocks/Rocks/Prefabs/Rock1LOD_grup3.prefab.meta
+    - Assets/Other/Enviroment/Rocks/Rocks/Prefabs/Rock1LOD_grup4.prefab
+    - Assets/Other/Enviroment/Rocks/Rocks/Prefabs/Rock1LOD_grup4.prefab.meta
+    - Assets/Other/Enviroment/Rocks/Rocks/Prefabs/Rock1LOD_grup5.prefab
+    - Assets/Other/Enviroment/Rocks/Rocks/Prefabs/Rock1LOD_grup5.prefab.meta
+    - Assets/Other/Enviroment/Rocks/Rocks/Prefabs/Rock1_grup1.prefab
+    - Assets/Other/Enviroment/Rocks/Rocks/Prefabs/Rock1_grup1.prefab.meta
+    - Assets/Other/Enviroment/Rocks/Rocks/Prefabs/Rock1_grup2.prefab
+    - Assets/Other/Enviroment/Rocks/Rocks/Prefabs/Rock1_grup2.prefab.meta
+    - Assets/Other/Enviroment/Rocks/Rocks/Prefabs/Rock1_grup3.prefab
+    - Assets/Other/Enviroment/Rocks/Rocks/Prefabs/Rock1_grup3.prefab.meta
+    - Assets/Other/Enviroment/Rocks/Rocks/Prefabs/Rock1_grup4.prefab
+    - Assets/Other/Enviroment/Rocks/Rocks/Prefabs/Rock1_grup4.prefab.meta
+    - Assets/Other/Enviroment/Rocks/Rocks/Prefabs/Rock1_grup5.prefab
+    - Assets/Other/Enviroment/Rocks/Rocks/Prefabs/Rock1_grup5.prefab.meta
+    - Assets/Other/Enviroment/Rocks/Rocks/Prefabs/Rock2.prefab
+    - Assets/Other/Enviroment/Rocks/Rocks/Prefabs/Rock2.prefab.meta
+    - Assets/Other/Enviroment/Rocks/Rocks/Prefabs/Rock3.prefab
+    - Assets/Other/Enviroment/Rocks/Rocks/Prefabs/Rock3.prefab.meta
+    - Assets/Other/Enviroment/Rocks/Rocks/Prefabs/Rock4A.prefab
+    - Assets/Other/Enviroment/Rocks/Rocks/Prefabs/Rock4A.prefab.meta
+    - Assets/Other/Enviroment/Rocks/Rocks/Prefabs/Rock4B.prefab
+    - Assets/Other/Enviroment/Rocks/Rocks/Prefabs/Rock4B.prefab.meta
+    - Assets/Other/Enviroment/Rocks/Rocks/Prefabs/Rock5A.prefab
+    - Assets/Other/Enviroment/Rocks/Rocks/Prefabs/Rock5A.prefab.meta
+    - Assets/Other/Enviroment/Rocks/Rocks/Prefabs/Rock5B.prefab
+    - Assets/Other/Enviroment/Rocks/Rocks/Prefabs/Rock5B.prefab.meta
+    - Assets/Other/Enviroment/Rocks/Rocks/Prefabs/Rock6A.prefab
+    - Assets/Other/Enviroment/Rocks/Rocks/Prefabs/Rock6A.prefab.meta
+    - Assets/Other/Enviroment/Rocks/Rocks/Prefabs/Rock6B.prefab
+    - Assets/Other/Enviroment/Rocks/Rocks/Prefabs/Rock6B.prefab.meta
+    - Assets/Other/Enviroment/Rocks/Rocks/Prefabs/Rock6C.prefab
+    - Assets/Other/Enviroment/Rocks/Rocks/Prefabs/Rock6C.prefab.meta
+    - Assets/Other/Enviroment/Rocks/Rocks/Prefabs_snow.meta
+    - Assets/Other/Enviroment/Rocks/Rocks/Prefabs_snow/Rock1A.prefab
+    - Assets/Other/Enviroment/Rocks/Rocks/Prefabs_snow/Rock1A.prefab.meta
+    - Assets/Other/Enviroment/Rocks/Rocks/Prefabs_snow/Rock1B.prefab
+    - Assets/Other/Enviroment/Rocks/Rocks/Prefabs_snow/Rock1B.prefab.meta
+    - Assets/Other/Enviroment/Rocks/Rocks/Prefabs_snow/Rock1C.prefab
+    - Assets/Other/Enviroment/Rocks/Rocks/Prefabs_snow/Rock1C.prefab.meta
+    - Assets/Other/Enviroment/Rocks/Rocks/Prefabs_snow/Rock1D.prefab
+    - Assets/Other/Enviroment/Rocks/Rocks/Prefabs_snow/Rock1D.prefab.meta
+    - Assets/Other/Enviroment/Rocks/Rocks/Prefabs_snow/Rock1E.prefab
+    - Assets/Other/Enviroment/Rocks/Rocks/Prefabs_snow/Rock1E.prefab.meta
+    - Assets/Other/Enviroment/Rocks/Rocks/Prefabs_snow/Rock1LOD_grup1.prefab
+    - Assets/Other/Enviroment/Rocks/Rocks/Prefabs_snow/Rock1LOD_grup1.prefab.meta
+    - Assets/Other/Enviroment/Rocks/Rocks/Prefabs_snow/Rock1LOD_grup2.prefab
+    - Assets/Other/Enviroment/Rocks/Rocks/Prefabs_snow/Rock1LOD_grup2.prefab.meta
+    - Assets/Other/Enviroment/Rocks/Rocks/Prefabs_snow/Rock1LOD_grup3.prefab
+    - Assets/Other/Enviroment/Rocks/Rocks/Prefabs_snow/Rock1LOD_grup3.prefab.meta
+    - Assets/Other/Enviroment/Rocks/Rocks/Prefabs_snow/Rock1LOD_grup4.prefab
+    - Assets/Other/Enviroment/Rocks/Rocks/Prefabs_snow/Rock1LOD_grup4.prefab.meta
+    - Assets/Other/Enviroment/Rocks/Rocks/Prefabs_snow/Rock1LOD_grup5.prefab
+    - Assets/Other/Enviroment/Rocks/Rocks/Prefabs_snow/Rock1LOD_grup5.prefab.meta
+    - Assets/Other/Enviroment/Rocks/Rocks/Prefabs_snow/Rock1_grup1.prefab
+    - Assets/Other/Enviroment/Rocks/Rocks/Prefabs_snow/Rock1_grup1.prefab.meta
+    - Assets/Other/Enviroment/Rocks/Rocks/Prefabs_snow/Rock1_grup2.prefab
+    - Assets/Other/Enviroment/Rocks/Rocks/Prefabs_snow/Rock1_grup2.prefab.meta
+    - Assets/Other/Enviroment/Rocks/Rocks/Prefabs_snow/Rock1_grup3.prefab
+    - Assets/Other/Enviroment/Rocks/Rocks/Prefabs_snow/Rock1_grup3.prefab.meta
+    - Assets/Other/Enviroment/Rocks/Rocks/Prefabs_snow/Rock1_grup4.prefab
+    - Assets/Other/Enviroment/Rocks/Rocks/Prefabs_snow/Rock1_grup4.prefab.meta
+    - Assets/Other/Enviroment/Rocks/Rocks/Prefabs_snow/Rock1_grup5.prefab
+    - Assets/Other/Enviroment/Rocks/Rocks/Prefabs_snow/Rock1_grup5.prefab.meta
+    - Assets/Other/Enviroment/Rocks/Rocks/Prefabs_snow/Rock2.prefab
+    - Assets/Other/Enviroment/Rocks/Rocks/Prefabs_snow/Rock2.prefab.meta
+    - Assets/Other/Enviroment/Rocks/Rocks/Prefabs_snow/Rock3.prefab
+    - Assets/Other/Enviroment/Rocks/Rocks/Prefabs_snow/Rock3.prefab.meta
+    - Assets/Other/Enviroment/Rocks/Rocks/Prefabs_snow/Rock4A.prefab
+    - Assets/Other/Enviroment/Rocks/Rocks/Prefabs_snow/Rock4A.prefab.meta
+    - Assets/Other/Enviroment/Rocks/Rocks/Prefabs_snow/Rock4B.prefab
+    - Assets/Other/Enviroment/Rocks/Rocks/Prefabs_snow/Rock4B.prefab.meta
+    - Assets/Other/Enviroment/Rocks/Rocks/Prefabs_snow/Rock5A.prefab
+    - Assets/Other/Enviroment/Rocks/Rocks/Prefabs_snow/Rock5A.prefab.meta
+    - Assets/Other/Enviroment/Rocks/Rocks/Prefabs_snow/Rock5B.prefab
+    - Assets/Other/Enviroment/Rocks/Rocks/Prefabs_snow/Rock5B.prefab.meta
+    - Assets/Other/Enviroment/Rocks/Rocks/Prefabs_snow/Rock6A.prefab
+    - Assets/Other/Enviroment/Rocks/Rocks/Prefabs_snow/Rock6A.prefab.meta
+    - Assets/Other/Enviroment/Rocks/Rocks/Prefabs_snow/Rock6B.prefab
+    - Assets/Other/Enviroment/Rocks/Rocks/Prefabs_snow/Rock6B.prefab.meta
+    - Assets/Other/Enviroment/Rocks/Rocks/Prefabs_snow/Rock6C.prefab
+    - Assets/Other/Enviroment/Rocks/Rocks/Prefabs_snow/Rock6C.prefab.meta
+    - Assets/Other/Enviroment/Rocks/Rocks/Source.meta
+    - Assets/Other/Enviroment/Rocks/Rocks/Source/Materials.meta
+    - Assets/Other/Enviroment/Rocks/Rocks/Source/Materials/Legacy.meta
+    - Assets/Other/Enviroment/Rocks/Rocks/Source/Materials/Legacy/Rock1.mat
+    - Assets/Other/Enviroment/Rocks/Rocks/Source/Materials/Legacy/Rock1.mat.meta
+    - Assets/Other/Enviroment/Rocks/Rocks/Source/Materials/Legacy/Rock1_snow.mat
+    - Assets/Other/Enviroment/Rocks/Rocks/Source/Materials/Legacy/Rock1_snow.mat.meta
+    - Assets/Other/Enviroment/Rocks/Rocks/Source/Materials/Legacy/Rock2.mat
+    - Assets/Other/Enviroment/Rocks/Rocks/Source/Materials/Legacy/Rock2.mat.meta
+    - Assets/Other/Enviroment/Rocks/Rocks/Source/Materials/Legacy/Rock2_snow.mat
+    - Assets/Other/Enviroment/Rocks/Rocks/Source/Materials/Legacy/Rock2_snow.mat.meta
+    - Assets/Other/Enviroment/Rocks/Rocks/Source/Materials/Legacy/Rock3.mat
+    - Assets/Other/Enviroment/Rocks/Rocks/Source/Materials/Legacy/Rock3.mat.meta
+    - Assets/Other/Enviroment/Rocks/Rocks/Source/Materials/Legacy/Rock3_snow.mat
+    - Assets/Other/Enviroment/Rocks/Rocks/Source/Materials/Legacy/Rock3_snow.mat.meta
+    - Assets/Other/Enviroment/Rocks/Rocks/Source/Materials/Legacy/Rock4.mat
+    - Assets/Other/Enviroment/Rocks/Rocks/Source/Materials/Legacy/Rock4.mat.meta
+    - Assets/Other/Enviroment/Rocks/Rocks/Source/Materials/Legacy/Rock4_snow.mat
+    - Assets/Other/Enviroment/Rocks/Rocks/Source/Materials/Legacy/Rock4_snow.mat.meta
+    - Assets/Other/Enviroment/Rocks/Rocks/Source/Materials/Legacy/Rock5.mat
+    - Assets/Other/Enviroment/Rocks/Rocks/Source/Materials/Legacy/Rock5.mat.meta
+    - Assets/Other/Enviroment/Rocks/Rocks/Source/Materials/Legacy/Rock5_snow.mat
+    - Assets/Other/Enviroment/Rocks/Rocks/Source/Materials/Legacy/Rock5_snow.mat.meta
+    - Assets/Other/Enviroment/Rocks/Rocks/Source/Materials/Legacy/Rock6.mat
+    - Assets/Other/Enviroment/Rocks/Rocks/Source/Materials/Legacy/Rock6.mat.meta
+    - Assets/Other/Enviroment/Rocks/Rocks/Source/Materials/Legacy/Rock6_snow.mat
+    - Assets/Other/Enviroment/Rocks/Rocks/Source/Materials/Legacy/Rock6_snow.mat.meta
+    - Assets/Other/Enviroment/Rocks/Rocks/Source/Materials/Legacy/fix.mat
+    - Assets/Other/Enviroment/Rocks/Rocks/Source/Materials/Legacy/fix.mat.meta
+    - Assets/Other/Enviroment/Rocks/Rocks/Source/Materials/Legacy/normalfix.mat
+    - Assets/Other/Enviroment/Rocks/Rocks/Source/Materials/Legacy/normalfix.mat.meta
+    - Assets/Other/Enviroment/Rocks/Rocks/Source/Materials/Unity 5.meta
+    - Assets/Other/Enviroment/Rocks/Rocks/Source/Materials/Unity 5/Rock1.mat
+    - Assets/Other/Enviroment/Rocks/Rocks/Source/Materials/Unity 5/Rock1.mat.meta
+    - Assets/Other/Enviroment/Rocks/Rocks/Source/Materials/Unity 5/Rock1_snow.mat
+    - Assets/Other/Enviroment/Rocks/Rocks/Source/Materials/Unity 5/Rock1_snow.mat.meta
+    - Assets/Other/Enviroment/Rocks/Rocks/Source/Materials/Unity 5/Rock2.mat
+    - Assets/Other/Enviroment/Rocks/Rocks/Source/Materials/Unity 5/Rock2.mat.meta
+    - Assets/Other/Enviroment/Rocks/Rocks/Source/Materials/Unity 5/Rock2_snow.mat
+    - Assets/Other/Enviroment/Rocks/Rocks/Source/Materials/Unity 5/Rock2_snow.mat.meta
+    - Assets/Other/Enviroment/Rocks/Rocks/Source/Materials/Unity 5/Rock3.mat
+    - Assets/Other/Enviroment/Rocks/Rocks/Source/Materials/Unity 5/Rock3.mat.meta
+    - Assets/Other/Enviroment/Rocks/Rocks/Source/Materials/Unity 5/Rock3_snow.mat
+    - Assets/Other/Enviroment/Rocks/Rocks/Source/Materials/Unity 5/Rock3_snow.mat.meta
+    - Assets/Other/Enviroment/Rocks/Rocks/Source/Materials/Unity 5/Rock4.mat
+    - Assets/Other/Enviroment/Rocks/Rocks/Source/Materials/Unity 5/Rock4.mat.meta
+    - Assets/Other/Enviroment/Rocks/Rocks/Source/Materials/Unity 5/Rock4_snow.mat
+    - Assets/Other/Enviroment/Rocks/Rocks/Source/Materials/Unity 5/Rock4_snow.mat.meta
+    - Assets/Other/Enviroment/Rocks/Rocks/Source/Materials/Unity 5/Rock5.mat
+    - Assets/Other/Enviroment/Rocks/Rocks/Source/Materials/Unity 5/Rock5.mat.meta
+    - Assets/Other/Enviroment/Rocks/Rocks/Source/Materials/Unity 5/Rock5_snow.mat
+    - Assets/Other/Enviroment/Rocks/Rocks/Source/Materials/Unity 5/Rock5_snow.mat.meta
+    - Assets/Other/Enviroment/Rocks/Rocks/Source/Materials/Unity 5/Rock6.mat
+    - Assets/Other/Enviroment/Rocks/Rocks/Source/Materials/Unity 5/Rock6.mat.meta
+    - Assets/Other/Enviroment/Rocks/Rocks/Source/Materials/Unity 5/Rock6_snow.mat
+    - Assets/Other/Enviroment/Rocks/Rocks/Source/Materials/Unity 5/Rock6_snow.mat.meta
+    - Assets/Other/Enviroment/Rocks/Rocks/Source/Models.meta
+    - Assets/Other/Enviroment/Rocks/Rocks/Source/Models/Rock1A.fbx
+    - Assets/Other/Enviroment/Rocks/Rocks/Source/Models/Rock1A.fbx.meta
+    - Assets/Other/Enviroment/Rocks/Rocks/Source/Models/Rock1B.fbx
+    - Assets/Other/Enviroment/Rocks/Rocks/Source/Models/Rock1B.fbx.meta
+    - Assets/Other/Enviroment/Rocks/Rocks/Source/Models/Rock1C.fbx
+    - Assets/Other/Enviroment/Rocks/Rocks/Source/Models/Rock1C.fbx.meta
+    - Assets/Other/Enviroment/Rocks/Rocks/Source/Models/Rock1D.fbx
+    - Assets/Other/Enviroment/Rocks/Rocks/Source/Models/Rock1D.fbx.meta
+    - Assets/Other/Enviroment/Rocks/Rocks/Source/Models/Rock1E.fbx
+    - Assets/Other/Enviroment/Rocks/Rocks/Source/Models/Rock1E.fbx.meta
+    - Assets/Other/Enviroment/Rocks/Rocks/Source/Models/Rock2.fbx
+    - Assets/Other/Enviroment/Rocks/Rocks/Source/Models/Rock2.fbx.meta
+    - Assets/Other/Enviroment/Rocks/Rocks/Source/Models/Rock3.fbx
+    - Assets/Other/Enviroment/Rocks/Rocks/Source/Models/Rock3.fbx.meta
+    - Assets/Other/Enviroment/Rocks/Rocks/Source/Models/Rock4A.fbx
+    - Assets/Other/Enviroment/Rocks/Rocks/Source/Models/Rock4A.fbx.meta
+    - Assets/Other/Enviroment/Rocks/Rocks/Source/Models/Rock4B.fbx
+    - Assets/Other/Enviroment/Rocks/Rocks/Source/Models/Rock4B.fbx.meta
+    - Assets/Other/Enviroment/Rocks/Rocks/Source/Models/Rock5A.fbx
+    - Assets/Other/Enviroment/Rocks/Rocks/Source/Models/Rock5A.fbx.meta
+    - Assets/Other/Enviroment/Rocks/Rocks/Source/Models/Rock5B.fbx
+    - Assets/Other/Enviroment/Rocks/Rocks/Source/Models/Rock5B.fbx.meta
+    - Assets/Other/Enviroment/Rocks/Rocks/Source/Models/Rock6A.fbx
+    - Assets/Other/Enviroment/Rocks/Rocks/Source/Models/Rock6A.fbx.meta
+    - Assets/Other/Enviroment/Rocks/Rocks/Source/Models/Rock6B.fbx
+    - Assets/Other/Enviroment/Rocks/Rocks/Source/Models/Rock6B.fbx.meta
+    - Assets/Other/Enviroment/Rocks/Rocks/Source/Models/Rock6C.fbx
+    - Assets/Other/Enviroment/Rocks/Rocks/Source/Models/Rock6C.fbx.meta
+    - Assets/Other/Enviroment/Rocks/Rocks/Source/Models/box.fbx
+    - Assets/Other/Enviroment/Rocks/Rocks/Source/Models/box.fbx.meta
+    - Assets/Other/Enviroment/Rocks/Rocks/Source/Textures.meta
+    - Assets/Other/Enviroment/Rocks/Rocks/Source/Textures/Rock1.tif
+    - Assets/Other/Enviroment/Rocks/Rocks/Source/Textures/Rock1.tif.meta
+    - Assets/Other/Enviroment/Rocks/Rocks/Source/Textures/Rock1_ao.png
+    - Assets/Other/Enviroment/Rocks/Rocks/Source/Textures/Rock1_ao.png.meta
+    - Assets/Other/Enviroment/Rocks/Rocks/Source/Textures/Rock1_h.png
+    - Assets/Other/Enviroment/Rocks/Rocks/Source/Textures/Rock1_h.png.meta
+    - Assets/Other/Enviroment/Rocks/Rocks/Source/Textures/Rock1_ms.png
+    - Assets/Other/Enviroment/Rocks/Rocks/Source/Textures/Rock1_ms.png.meta
+    - Assets/Other/Enviroment/Rocks/Rocks/Source/Textures/Rock1_nmp.tif
+    - Assets/Other/Enviroment/Rocks/Rocks/Source/Textures/Rock1_nmp.tif.meta
+    - Assets/Other/Enviroment/Rocks/Rocks/Source/Textures/Rock1_snow.tif
+    - Assets/Other/Enviroment/Rocks/Rocks/Source/Textures/Rock1_snow.tif.meta
+    - Assets/Other/Enviroment/Rocks/Rocks/Source/Textures/Rock2.tif
+    - Assets/Other/Enviroment/Rocks/Rocks/Source/Textures/Rock2.tif.meta
+    - Assets/Other/Enviroment/Rocks/Rocks/Source/Textures/Rock2_ao.png
+    - Assets/Other/Enviroment/Rocks/Rocks/Source/Textures/Rock2_ao.png.meta
+    - Assets/Other/Enviroment/Rocks/Rocks/Source/Textures/Rock2_h.png
+    - Assets/Other/Enviroment/Rocks/Rocks/Source/Textures/Rock2_h.png.meta
+    - Assets/Other/Enviroment/Rocks/Rocks/Source/Textures/Rock2_ms.png
+    - Assets/Other/Enviroment/Rocks/Rocks/Source/Textures/Rock2_ms.png.meta
+    - Assets/Other/Enviroment/Rocks/Rocks/Source/Textures/Rock2_nmp.tif
+    - Assets/Other/Enviroment/Rocks/Rocks/Source/Textures/Rock2_nmp.tif.meta
+    - Assets/Other/Enviroment/Rocks/Rocks/Source/Textures/Rock2_snow.tif
+    - Assets/Other/Enviroment/Rocks/Rocks/Source/Textures/Rock2_snow.tif.meta
+    - Assets/Other/Enviroment/Rocks/Rocks/Source/Textures/Rock3.tif
+    - Assets/Other/Enviroment/Rocks/Rocks/Source/Textures/Rock3.tif.meta
+    - Assets/Other/Enviroment/Rocks/Rocks/Source/Textures/Rock3_ao.png
+    - Assets/Other/Enviroment/Rocks/Rocks/Source/Textures/Rock3_ao.png.meta
+    - Assets/Other/Enviroment/Rocks/Rocks/Source/Textures/Rock3_h.png
+    - Assets/Other/Enviroment/Rocks/Rocks/Source/Textures/Rock3_h.png.meta
+    - Assets/Other/Enviroment/Rocks/Rocks/Source/Textures/Rock3_ms.png
+    - Assets/Other/Enviroment/Rocks/Rocks/Source/Textures/Rock3_ms.png.meta
+    - Assets/Other/Enviroment/Rocks/Rocks/Source/Textures/Rock3_nmp.tif
+    - Assets/Other/Enviroment/Rocks/Rocks/Source/Textures/Rock3_nmp.tif.meta
+    - Assets/Other/Enviroment/Rocks/Rocks/Source/Textures/Rock3_snow.tif
+    - Assets/Other/Enviroment/Rocks/Rocks/Source/Textures/Rock3_snow.tif.meta
+    - Assets/Other/Enviroment/Rocks/Rocks/Source/Textures/Rock4.tif
+    - Assets/Other/Enviroment/Rocks/Rocks/Source/Textures/Rock4.tif.meta
+    - Assets/Other/Enviroment/Rocks/Rocks/Source/Textures/Rock4_ao.png
+    - Assets/Other/Enviroment/Rocks/Rocks/Source/Textures/Rock4_ao.png.meta
+    - Assets/Other/Enviroment/Rocks/Rocks/Source/Textures/Rock4_h.png
+    - Assets/Other/Enviroment/Rocks/Rocks/Source/Textures/Rock4_h.png.meta
+    - Assets/Other/Enviroment/Rocks/Rocks/Source/Textures/Rock4_ms.png
+    - Assets/Other/Enviroment/Rocks/Rocks/Source/Textures/Rock4_ms.png.meta
+    - Assets/Other/Enviroment/Rocks/Rocks/Source/Textures/Rock4_nmp.tif
+    - Assets/Other/Enviroment/Rocks/Rocks/Source/Textures/Rock4_nmp.tif.meta
+    - Assets/Other/Enviroment/Rocks/Rocks/Source/Textures/Rock4_snow.tif
+    - Assets/Other/Enviroment/Rocks/Rocks/Source/Textures/Rock4_snow.tif.meta
+    - Assets/Other/Enviroment/Rocks/Rocks/Source/Textures/Rock5.tif
+    - Assets/Other/Enviroment/Rocks/Rocks/Source/Textures/Rock5.tif.meta
+    - Assets/Other/Enviroment/Rocks/Rocks/Source/Textures/Rock5_ao.png
+    - Assets/Other/Enviroment/Rocks/Rocks/Source/Textures/Rock5_ao.png.meta
+    - Assets/Other/Enviroment/Rocks/Rocks/Source/Textures/Rock5_h.png
+    - Assets/Other/Enviroment/Rocks/Rocks/Source/Textures/Rock5_h.png.meta
+    - Assets/Other/Enviroment/Rocks/Rocks/Source/Textures/Rock5_ms.png
+    - Assets/Other/Enviroment/Rocks/Rocks/Source/Textures/Rock5_ms.png.meta
+    - Assets/Other/Enviroment/Rocks/Rocks/Source/Textures/Rock5_nmp.tif
+    - Assets/Other/Enviroment/Rocks/Rocks/Source/Textures/Rock5_nmp.tif.meta
+    - Assets/Other/Enviroment/Rocks/Rocks/Source/Textures/Rock5_snow.tif
+    - Assets/Other/Enviroment/Rocks/Rocks/Source/Textures/Rock5_snow.tif.meta
+    - Assets/Other/Enviroment/Rocks/Rocks/Source/Textures/Rock6.tif
+    - Assets/Other/Enviroment/Rocks/Rocks/Source/Textures/Rock6.tif.meta
+    - Assets/Other/Enviroment/Rocks/Rocks/Source/Textures/Rock6_ao.png
+    - Assets/Other/Enviroment/Rocks/Rocks/Source/Textures/Rock6_ao.png.meta
+    - Assets/Other/Enviroment/Rocks/Rocks/Source/Textures/Rock6_h.png
+    - Assets/Other/Enviroment/Rocks/Rocks/Source/Textures/Rock6_h.png.meta
+    - Assets/Other/Enviroment/Rocks/Rocks/Source/Textures/Rock6_ms.png
+    - Assets/Other/Enviroment/Rocks/Rocks/Source/Textures/Rock6_ms.png.meta
+    - Assets/Other/Enviroment/Rocks/Rocks/Source/Textures/Rock6_nmp.tif
+    - Assets/Other/Enviroment/Rocks/Rocks/Source/Textures/Rock6_nmp.tif.meta
+    - Assets/Other/Enviroment/Rocks/Rocks/Source/Textures/Rock6_snow.tif
+    - Assets/Other/Enviroment/Rocks/Rocks/Source/Textures/Rock6_snow.tif.meta
+    - Assets/Other/Enviroment/Rocks/Rocks/Source/Textures/Rockdetail1.tif
+    - Assets/Other/Enviroment/Rocks/Rocks/Source/Textures/Rockdetail1.tif.meta
+    - Assets/Other/Enviroment/Rocks/Rocks/Source/Textures/Rockdetail10.tif
+    - Assets/Other/Enviroment/Rocks/Rocks/Source/Textures/Rockdetail10.tif.meta
+    - Assets/Other/Enviroment/Rocks/Rocks/Source/Textures/Rockdetail10_nmp.tif
+    - Assets/Other/Enviroment/Rocks/Rocks/Source/Textures/Rockdetail10_nmp.tif.meta
+    - Assets/Other/Enviroment/Rocks/Rocks/Source/Textures/Rockdetail11.tif
+    - Assets/Other/Enviroment/Rocks/Rocks/Source/Textures/Rockdetail11.tif.meta
+    - Assets/Other/Enviroment/Rocks/Rocks/Source/Textures/Rockdetail11_nmp.tif
+    - Assets/Other/Enviroment/Rocks/Rocks/Source/Textures/Rockdetail11_nmp.tif.meta
+    - Assets/Other/Enviroment/Rocks/Rocks/Source/Textures/Rockdetail12.tif
+    - Assets/Other/Enviroment/Rocks/Rocks/Source/Textures/Rockdetail12.tif.meta
+    - Assets/Other/Enviroment/Rocks/Rocks/Source/Textures/Rockdetail12_nmp.tif
+    - Assets/Other/Enviroment/Rocks/Rocks/Source/Textures/Rockdetail12_nmp.tif.meta
+    - Assets/Other/Enviroment/Rocks/Rocks/Source/Textures/Rockdetail1_nmp.tif
+    - Assets/Other/Enviroment/Rocks/Rocks/Source/Textures/Rockdetail1_nmp.tif.meta
+    - Assets/Other/Enviroment/Rocks/Rocks/Source/Textures/Rockdetail2.tif
+    - Assets/Other/Enviroment/Rocks/Rocks/Source/Textures/Rockdetail2.tif.meta
+    - Assets/Other/Enviroment/Rocks/Rocks/Source/Textures/Rockdetail2_nmp.tif
+    - Assets/Other/Enviroment/Rocks/Rocks/Source/Textures/Rockdetail2_nmp.tif.meta
+    - Assets/Other/Enviroment/Rocks/Rocks/Source/Textures/Rockdetail3.tif
+    - Assets/Other/Enviroment/Rocks/Rocks/Source/Textures/Rockdetail3.tif.meta
+    - Assets/Other/Enviroment/Rocks/Rocks/Source/Textures/Rockdetail3_nmp.tif
+    - Assets/Other/Enviroment/Rocks/Rocks/Source/Textures/Rockdetail3_nmp.tif.meta
+    - Assets/Other/Enviroment/Rocks/Rocks/Source/Textures/Rockdetail4.tif
+    - Assets/Other/Enviroment/Rocks/Rocks/Source/Textures/Rockdetail4.tif.meta
+    - Assets/Other/Enviroment/Rocks/Rocks/Source/Textures/Rockdetail4_nmp.tif
+    - Assets/Other/Enviroment/Rocks/Rocks/Source/Textures/Rockdetail4_nmp.tif.meta
+    - Assets/Other/Enviroment/Rocks/Rocks/Source/Textures/Rockdetail5.tif
+    - Assets/Other/Enviroment/Rocks/Rocks/Source/Textures/Rockdetail5.tif.meta
+    - Assets/Other/Enviroment/Rocks/Rocks/Source/Textures/Rockdetail5_nmp.tif
+    - Assets/Other/Enviroment/Rocks/Rocks/Source/Textures/Rockdetail5_nmp.tif.meta
+    - Assets/Other/Enviroment/Rocks/Rocks/Source/Textures/Rockdetail6.tif
+    - Assets/Other/Enviroment/Rocks/Rocks/Source/Textures/Rockdetail6.tif.meta
+    - Assets/Other/Enviroment/Rocks/Rocks/Source/Textures/Rockdetail6_nmp.tif
+    - Assets/Other/Enviroment/Rocks/Rocks/Source/Textures/Rockdetail6_nmp.tif.meta
+    - Assets/Other/Enviroment/Rocks/Rocks/Source/Textures/Rockdetail7.tif
+    - Assets/Other/Enviroment/Rocks/Rocks/Source/Textures/Rockdetail7.tif.meta
+    - Assets/Other/Enviroment/Rocks/Rocks/Source/Textures/Rockdetail7_nmp.tif
+    - Assets/Other/Enviroment/Rocks/Rocks/Source/Textures/Rockdetail7_nmp.tif.meta
+    - Assets/Other/Enviroment/Rocks/Rocks/Source/Textures/Rockdetail8.tif
+    - Assets/Other/Enviroment/Rocks/Rocks/Source/Textures/Rockdetail8.tif.meta
+    - Assets/Other/Enviroment/Rocks/Rocks/Source/Textures/Rockdetail8_nmp.tif
+    - Assets/Other/Enviroment/Rocks/Rocks/Source/Textures/Rockdetail8_nmp.tif.meta
+    - Assets/Other/Enviroment/Rocks/Rocks/Source/Textures/Rockdetail9.tif
+    - Assets/Other/Enviroment/Rocks/Rocks/Source/Textures/Rockdetail9.tif.meta
+    - Assets/Other/Enviroment/Rocks/Rocks/Source/Textures/Rockdetail9_nmp.tif
+    - Assets/Other/Enviroment/Rocks/Rocks/Source/Textures/Rockdetail9_nmp.tif.meta
+    - Assets/Other/Enviroment/Rocks/Rocks/Source/Textures/neutral.tif
+    - Assets/Other/Enviroment/Rocks/Rocks/Source/Textures/neutral.tif.meta
+    - Assets/Other/Enviroment/Rocks/Rocks/Source/Textures/neutral_nmp.tif
+    - Assets/Other/Enviroment/Rocks/Rocks/Source/Textures/neutral_nmp.tif.meta
+    - Assets/Other/Enviroment/Rocks/Shaders.meta
+    - Assets/Other/Enviroment/Rocks/Shaders/Blend SM2.shader
+    - Assets/Other/Enviroment/Rocks/Shaders/Blend SM2.shader.meta
+    - Assets/Other/Enviroment/Rocks/Shaders/Blend SM3.shader
+    - Assets/Other/Enviroment/Rocks/Shaders/Blend SM3.shader.meta
+    - Assets/Other/Enviroment/Rocks/Shaders/RotateGameObject.cs
+    - Assets/Other/Enviroment/Rocks/Shaders/RotateGameObject.cs.meta
+    - Assets/Other/Enviroment/Rocks/Shaders/shader info.txt
+    - Assets/Other/Enviroment/Rocks/Shaders/shader info.txt.meta
+    - Assets/Other/Enviroment/_TerrainAutoUpgrade.meta
+    - Assets/Other/Enviroment/_TerrainAutoUpgrade/layer_dirt01b3407d0e55802f81.terrainlayer
+    - Assets/Other/Enviroment/_TerrainAutoUpgrade/layer_dirt01b3407d0e55802f81.terrainlayer.meta
+    - Assets/Other/Enviroment/_TerrainAutoUpgrade/layer_grass01_bb3407d0e55802f81.terrainlayer
+    - Assets/Other/Enviroment/_TerrainAutoUpgrade/layer_grass01_bb3407d0e55802f81.terrainlayer.meta
+    - Assets/Other/Enviroment/_TerrainAutoUpgrade/layer_grass01b3407d0e55802f81.terrainlayer
+    - Assets/Other/Enviroment/_TerrainAutoUpgrade/layer_grass01b3407d0e55802f81.terrainlayer.meta
+    - Assets/Other/Music.meta
+    - Assets/Other/Music/MainMenuMusic.meta
+    - Assets/Other/Music/MainMenuMusic/Aspiration Woods (Area Theme).wav
+    - Assets/Other/Music/MainMenuMusic/Aspiration Woods (Area Theme).wav.meta
+    - Assets/Other/Music/MainMenuMusic/Final Struggle (Boss Theme).wav
+    - Assets/Other/Music/MainMenuMusic/Final Struggle (Boss Theme).wav.meta
+    - Assets/Other/Music/MainMenuMusic/Lost Kingdom (Piano Menu).wav
+    - Assets/Other/Music/MainMenuMusic/Lost Kingdom (Piano Menu).wav.meta
+    - Assets/Other/UI.meta
+    - Assets/Other/UI/PlayerInterface.meta
+    - Assets/Other/UI/PlayerInterface/Demo.unity
+    - Assets/Other/UI/PlayerInterface/Demo.unity.meta
+    - Assets/Other/UI/PlayerInterface/Gui_parts.meta
+    - Assets/Other/UI/PlayerInterface/Gui_parts/Frame_big.png
+    - Assets/Other/UI/PlayerInterface/Gui_parts/Frame_big.png.meta
+    - Assets/Other/UI/PlayerInterface/Gui_parts/Frame_mid.png
+    - Assets/Other/UI/PlayerInterface/Gui_parts/Frame_mid.png.meta
+    - Assets/Other/UI/PlayerInterface/Gui_parts/Frame_mid_2.png
+    - Assets/Other/UI/PlayerInterface/Gui_parts/Frame_mid_2.png.meta
+    - Assets/Other/UI/PlayerInterface/Gui_parts/Hp_frame.png
+    - Assets/Other/UI/PlayerInterface/Gui_parts/Hp_frame.png.meta
+    - Assets/Other/UI/PlayerInterface/Gui_parts/Hp_line.png
+    - Assets/Other/UI/PlayerInterface/Gui_parts/Hp_line.png.meta
+    - Assets/Other/UI/PlayerInterface/Gui_parts/Mini_background.png
+    - Assets/Other/UI/PlayerInterface/Gui_parts/Mini_background.png.meta
+    - Assets/Other/UI/PlayerInterface/Gui_parts/Mini_frame0.png
+    - Assets/Other/UI/PlayerInterface/Gui_parts/Mini_frame0.png.meta
+    - Assets/Other/UI/PlayerInterface/Gui_parts/Mini_frame1.png
+    - Assets/Other/UI/PlayerInterface/Gui_parts/Mini_frame1.png.meta
+    - Assets/Other/UI/PlayerInterface/Gui_parts/Mini_frame2.png
+    - Assets/Other/UI/PlayerInterface/Gui_parts/Mini_frame2.png.meta
+    - Assets/Other/UI/PlayerInterface/Gui_parts/bar_ready.png
+    - Assets/Other/UI/PlayerInterface/Gui_parts/bar_ready.png.meta
+    - Assets/Other/UI/PlayerInterface/Gui_parts/barmid_ready.png
+    - Assets/Other/UI/PlayerInterface/Gui_parts/barmid_ready.png.meta
+    - Assets/Other/UI/PlayerInterface/Gui_parts/big_background.png
+    - Assets/Other/UI/PlayerInterface/Gui_parts/big_background.png.meta
+    - Assets/Other/UI/PlayerInterface/Gui_parts/big_roundframe.png
+    - Assets/Other/UI/PlayerInterface/Gui_parts/big_roundframe.png.meta
+    - Assets/Other/UI/PlayerInterface/Gui_parts/button.png
+    - Assets/Other/UI/PlayerInterface/Gui_parts/button.png.meta
+    - Assets/Other/UI/PlayerInterface/Gui_parts/button2.png
+    - Assets/Other/UI/PlayerInterface/Gui_parts/button2.png.meta
+    - Assets/Other/UI/PlayerInterface/Gui_parts/button2_ready_off.png
+    - Assets/Other/UI/PlayerInterface/Gui_parts/button2_ready_off.png.meta
+    - Assets/Other/UI/PlayerInterface/Gui_parts/button2_ready_on.png
+    - Assets/Other/UI/PlayerInterface/Gui_parts/button2_ready_on.png.meta
+    - Assets/Other/UI/PlayerInterface/Gui_parts/button3_ready.png
+    - Assets/Other/UI/PlayerInterface/Gui_parts/button3_ready.png.meta
+    - Assets/Other/UI/PlayerInterface/Gui_parts/button_agree.png
+    - Assets/Other/UI/PlayerInterface/Gui_parts/button_agree.png.meta
+    - Assets/Other/UI/PlayerInterface/Gui_parts/button_cancel.png
+    - Assets/Other/UI/PlayerInterface/Gui_parts/button_cancel.png.meta
+    - Assets/Other/UI/PlayerInterface/Gui_parts/button_frame.png
+    - Assets/Other/UI/PlayerInterface/Gui_parts/button_frame.png.meta
+    - Assets/Other/UI/PlayerInterface/Gui_parts/button_ready_off.png
+    - Assets/Other/UI/PlayerInterface/Gui_parts/button_ready_off.png.meta
+    - Assets/Other/UI/PlayerInterface/Gui_parts/button_ready_on.png
+    - Assets/Other/UI/PlayerInterface/Gui_parts/button_ready_on.png.meta
+    - Assets/Other/UI/PlayerInterface/Gui_parts/lil_roundbackground.png
+    - Assets/Other/UI/PlayerInterface/Gui_parts/lil_roundbackground.png.meta
+    - Assets/Other/UI/PlayerInterface/Gui_parts/lil_roundframe.png
+    - Assets/Other/UI/PlayerInterface/Gui_parts/lil_roundframe.png.meta
+    - Assets/Other/UI/PlayerInterface/Gui_parts/lil_roundframe_ready.png
+    - Assets/Other/UI/PlayerInterface/Gui_parts/lil_roundframe_ready.png.meta
+    - Assets/Other/UI/PlayerInterface/Gui_parts/lil_roundframe_ready2.png
+    - Assets/Other/UI/PlayerInterface/Gui_parts/lil_roundframe_ready2.png.meta
+    - Assets/Other/UI/PlayerInterface/Gui_parts/mid_background.png
+    - Assets/Other/UI/PlayerInterface/Gui_parts/mid_background.png.meta
+    - Assets/Other/UI/PlayerInterface/Gui_parts/name_bar.png
+    - Assets/Other/UI/PlayerInterface/Gui_parts/name_bar.png.meta
+    - Assets/Other/UI/PlayerInterface/Gui_parts/name_bar2.png
+    - Assets/Other/UI/PlayerInterface/Gui_parts/name_bar2.png.meta
+    - Assets/Other/UI/PlayerInterface/Gui_parts/name_bar3.png
+    - Assets/Other/UI/PlayerInterface/Gui_parts/name_bar3.png.meta
+    - Assets/Other/UI/PlayerInterface/Gui_parts/warrior_silhouette_man.png
+    - Assets/Other/UI/PlayerInterface/Gui_parts/warrior_silhouette_man.png.meta
+    - Assets/Other/UI/PlayerInterface/Gui_parts/warrior_silhouette_woman.png
+    - Assets/Other/UI/PlayerInterface/Gui_parts/warrior_silhouette_woman.png.meta
+    - Assets/Other/UI/PlayerInterface/Icons.meta
+    - Assets/Other/UI/PlayerInterface/Icons/armor_icon.png
+    - Assets/Other/UI/PlayerInterface/Icons/armor_icon.png.meta
+    - Assets/Other/UI/PlayerInterface/Icons/skill_icon_01.png
+    - Assets/Other/UI/PlayerInterface/Icons/skill_icon_01.png.meta
+    - Assets/Other/UI/PlayerInterface/Icons/skill_icon_01_nobg.png
+    - Assets/Other/UI/PlayerInterface/Icons/skill_icon_01_nobg.png.meta
+    - Assets/Other/UI/PlayerInterface/Icons/skill_icon_02.png
+    - Assets/Other/UI/PlayerInterface/Icons/skill_icon_02.png.meta
+    - Assets/Other/UI/PlayerInterface/Icons/skill_icon_02_nobg.png
+    - Assets/Other/UI/PlayerInterface/Icons/skill_icon_02_nobg.png.meta
+    - Assets/Other/UI/PlayerInterface/Icons/skill_icon_03.png
+    - Assets/Other/UI/PlayerInterface/Icons/skill_icon_03.png.meta
+    - Assets/Other/UI/PlayerInterface/Icons/skill_icon_03_nobg.png
+    - Assets/Other/UI/PlayerInterface/Icons/skill_icon_03_nobg.png.meta
+    - Assets/Other/UI/PlayerInterface/Icons/skill_icon_04.png
+    - Assets/Other/UI/PlayerInterface/Icons/skill_icon_04.png.meta
+    - Assets/Other/UI/PlayerInterface/Icons/skill_icon_04_nobg.png
+    - Assets/Other/UI/PlayerInterface/Icons/skill_icon_04_nobg.png.meta
+    - Assets/Other/UI/PlayerInterface/Icons/stoune_icon.png
+    - Assets/Other/UI/PlayerInterface/Icons/stoune_icon.png.meta
+    - Assets/Other/UI/PlayerInterface/Icons/weapon_icon.png
+    - Assets/Other/UI/PlayerInterface/Icons/weapon_icon.png.meta
+    - Assets/Other/Weapons.meta
+    - Assets/Other/Weapons/Dagger.meta
+    - Assets/Other/Weapons/Dagger/Asset.meta
+    - Assets/Other/Weapons/Dagger/Asset/Materials.meta
+    - Assets/Other/Weapons/Dagger/Asset/Materials/SteelDagger_Material_1024.mat
+    - Assets/Other/Weapons/Dagger/Asset/Materials/SteelDagger_Material_1024.mat.meta
+    - Assets/Other/Weapons/Dagger/Asset/Materials/SteelDagger_Material_2048.mat
+    - Assets/Other/Weapons/Dagger/Asset/Materials/SteelDagger_Material_2048.mat.meta
+    - Assets/Other/Weapons/Dagger/Asset/Materials/SteelDagger_Material_4096.mat
+    - Assets/Other/Weapons/Dagger/Asset/Materials/SteelDagger_Material_4096.mat.meta
+    - Assets/Other/Weapons/Dagger/Asset/Materials/SteelDagger_Material_512.mat
+    - Assets/Other/Weapons/Dagger/Asset/Materials/SteelDagger_Material_512.mat.meta
+    - Assets/Other/Weapons/Dagger/Asset/Models.meta
+    - Assets/Other/Weapons/Dagger/Asset/Models/dagger.fbx
+    - Assets/Other/Weapons/Dagger/Asset/Models/dagger.fbx.meta
+    - Assets/Other/Weapons/Dagger/Asset/Models/dagger.zip
+    - Assets/Other/Weapons/Dagger/Asset/Models/dagger.zip.meta
+    - Assets/Other/Weapons/Dagger/Asset/Prefabs.meta
+    - Assets/Other/Weapons/Dagger/Asset/Prefabs/Steel_Dagger_1024.prefab
+    - Assets/Other/Weapons/Dagger/Asset/Prefabs/Steel_Dagger_1024.prefab.meta
+    - Assets/Other/Weapons/Dagger/Asset/Prefabs/Steel_Dagger_2048.prefab
+    - Assets/Other/Weapons/Dagger/Asset/Prefabs/Steel_Dagger_2048.prefab.meta
+    - Assets/Other/Weapons/Dagger/Asset/Prefabs/Steel_Dagger_4096.prefab
+    - Assets/Other/Weapons/Dagger/Asset/Prefabs/Steel_Dagger_4096.prefab.meta
+    - Assets/Other/Weapons/Dagger/Asset/Prefabs/Steel_Dagger_512.prefab
+    - Assets/Other/Weapons/Dagger/Asset/Prefabs/Steel_Dagger_512.prefab.meta
+    - Assets/Other/Weapons/Dagger/Asset/Textures.meta
+    - Assets/Other/Weapons/Dagger/Asset/Textures/1024.meta
+    - Assets/Other/Weapons/Dagger/Asset/Textures/1024/steeldagger_1024_AlbedoTransparency.png
+    - Assets/Other/Weapons/Dagger/Asset/Textures/1024/steeldagger_1024_AlbedoTransparency.png.meta
+    - Assets/Other/Weapons/Dagger/Asset/Textures/1024/steeldagger_1024_MetallicSmoothness.png
+    - Assets/Other/Weapons/Dagger/Asset/Textures/1024/steeldagger_1024_MetallicSmoothness.png.meta
+    - Assets/Other/Weapons/Dagger/Asset/Textures/1024/steeldagger_1024_Normal.png
+    - Assets/Other/Weapons/Dagger/Asset/Textures/1024/steeldagger_1024_Normal.png.meta
+    - Assets/Other/Weapons/Dagger/Asset/Textures/2048.meta
+    - Assets/Other/Weapons/Dagger/Asset/Textures/2048/steeldagger_2048_AlbedoTransparency.png
+    - Assets/Other/Weapons/Dagger/Asset/Textures/2048/steeldagger_2048_AlbedoTransparency.png.meta
+    - Assets/Other/Weapons/Dagger/Asset/Textures/2048/steeldagger_2048_MetallicSmoothness.png
+    - Assets/Other/Weapons/Dagger/Asset/Textures/2048/steeldagger_2048_MetallicSmoothness.png.meta
+    - Assets/Other/Weapons/Dagger/Asset/Textures/2048/steeldagger_2048_Normal.png
+    - Assets/Other/Weapons/Dagger/Asset/Textures/2048/steeldagger_2048_Normal.png.meta
+    - Assets/Other/Weapons/Dagger/Asset/Textures/4096.meta
+    - Assets/Other/Weapons/Dagger/Asset/Textures/4096/steeldagger_4096_AlbedoTransparency.png
+    - Assets/Other/Weapons/Dagger/Asset/Textures/4096/steeldagger_4096_AlbedoTransparency.png.meta
+    - Assets/Other/Weapons/Dagger/Asset/Textures/4096/steeldagger_4096_MetallicSmoothness.png
+    - Assets/Other/Weapons/Dagger/Asset/Textures/4096/steeldagger_4096_MetallicSmoothness.png.meta
+    - Assets/Other/Weapons/Dagger/Asset/Textures/4096/steeldagger_4096_Normal.png
+    - Assets/Other/Weapons/Dagger/Asset/Textures/4096/steeldagger_4096_Normal.png.meta
+    - Assets/Other/Weapons/Dagger/Asset/Textures/512.meta
+    - Assets/Other/Weapons/Dagger/Asset/Textures/512/steeldagger_512_AlbedoTransparency.png
+    - Assets/Other/Weapons/Dagger/Asset/Textures/512/steeldagger_512_AlbedoTransparency.png.meta
+    - Assets/Other/Weapons/Dagger/Asset/Textures/512/steeldagger_512_MetallicSmoothness.png
+    - Assets/Other/Weapons/Dagger/Asset/Textures/512/steeldagger_512_MetallicSmoothness.png.meta
+    - Assets/Other/Weapons/Dagger/Asset/Textures/512/steeldagger_512_Normal.png
+    - Assets/Other/Weapons/Dagger/Asset/Textures/512/steeldagger_512_Normal.png.meta
+    - Assets/Other/Weapons/Dagger/Asset/ico_1.png
+    - Assets/Other/Weapons/Dagger/Asset/ico_1.png.meta
+    - Assets/Other/Weapons/Dagger/Asset/ico_2.png
+    - Assets/Other/Weapons/Dagger/Asset/ico_2.png.meta
+    - Assets/Other/Weapons/Dagger/Demo.meta
+    - Assets/Other/Weapons/Dagger/Demo/demo_material.mat
+    - Assets/Other/Weapons/Dagger/Demo/demo_material.mat.meta
+    - Assets/Other/Weapons/Dagger/Demo/demo_scene.unity
+    - Assets/Other/Weapons/Dagger/Demo/demo_scene.unity.meta
+    - Assets/Other/Weapons/Dagger/Demo/demo_sceneSettings.lighting
+    - Assets/Other/Weapons/Dagger/Demo/demo_sceneSettings.lighting.meta
+    - Assets/Other/Weapons/Other.meta
+    - Assets/Other/Weapons/Other/meshes.meta
+    - Assets/Other/Weapons/Other/meshes/bow.meta
+    - Assets/Other/Weapons/Other/meshes/bow/bow.FBX
+    - Assets/Other/Weapons/Other/meshes/bow/bow.FBX.meta
+    - Assets/Other/Weapons/Other/meshes/bow/bow_arrow.FBX
+    - Assets/Other/Weapons/Other/meshes/bow/bow_arrow.FBX.meta
+    - Assets/Other/Weapons/Other/meshes/bow/bow_quiver.FBX
+    - Assets/Other/Weapons/Other/meshes/bow/bow_quiver.FBX.meta
+    - Assets/Other/Weapons/Other/meshes/bow/bow_texture.png
+    - Assets/Other/Weapons/Other/meshes/bow/bow_texture.png.meta
+    - Assets/Other/Weapons/Other/meshes/oneHandedSword.meta
+    - Assets/Other/Weapons/Other/meshes/oneHandedSword/sword1.FBX
+    - Assets/Other/Weapons/Other/meshes/oneHandedSword/sword1.FBX.meta
+    - Assets/Other/Weapons/Other/meshes/oneHandedSword/sword1.png
+    - Assets/Other/Weapons/Other/meshes/oneHandedSword/sword1.png.meta
+    - Assets/Other/Weapons/Other/meshes/shield.meta
+    - Assets/Other/Weapons/Other/meshes/shield/shield.FBX
+    - Assets/Other/Weapons/Other/meshes/shield/shield.FBX.meta
+    - Assets/Other/Weapons/Other/meshes/shield/shield_texture.png
+    - Assets/Other/Weapons/Other/meshes/shield/shield_texture.png.meta
+    - Assets/Other/Weapons/Other/meshes/stick.meta
+    - Assets/Other/Weapons/Other/meshes/stick/stick.FBX
+    - Assets/Other/Weapons/Other/meshes/stick/stick.FBX.meta
+    - Assets/Other/Weapons/Other/meshes/stick/stick_texture.png
+    - Assets/Other/Weapons/Other/meshes/stick/stick_texture.png.meta
+    - Assets/Other/Weapons/Other/meshes/twoHandedAxe.meta
+    - Assets/Other/Weapons/Other/meshes/twoHandedAxe/axe_texture.png
+    - Assets/Other/Weapons/Other/meshes/twoHandedAxe/axe_texture.png.meta
+    - Assets/Other/Weapons/Other/meshes/twoHandedAxe/twoHandedAxe.FBX
+    - Assets/Other/Weapons/Other/meshes/twoHandedAxe/twoHandedAxe.FBX.meta
+    - Assets/Other/Weapons/Other/meshes/twoHandedStaff.meta
+    - Assets/Other/Weapons/Other/meshes/twoHandedStaff/twoHandedStaff.FBX
+    - Assets/Other/Weapons/Other/meshes/twoHandedStaff/twoHandedStaff.FBX.meta
+    - Assets/Other/Weapons/Other/meshes/twoHandedStaff/twoHandedStaff_texture.png
+    - Assets/Other/Weapons/Other/meshes/twoHandedStaff/twoHandedStaff_texture.png.meta
+    - Assets/Other/Weapons/Other/prefabs.meta
+    - Assets/Other/Weapons/Other/prefabs/bow.prefab
+    - Assets/Other/Weapons/Other/prefabs/bow.prefab.meta
+    - Assets/Other/Weapons/Other/prefabs/bow_arrow.prefab
+    - Assets/Other/Weapons/Other/prefabs/bow_arrow.prefab.meta
+    - Assets/Other/Weapons/Other/prefabs/bow_quiver.prefab
+    - Assets/Other/Weapons/Other/prefabs/bow_quiver.prefab.meta
+    - Assets/Other/Weapons/Other/prefabs/shield.prefab
+    - Assets/Other/Weapons/Other/prefabs/shield.prefab.meta
+    - Assets/Other/Weapons/Other/prefabs/stick.prefab
+    - Assets/Other/Weapons/Other/prefabs/stick.prefab.meta
+    - Assets/Other/Weapons/Other/prefabs/sword1.prefab
+    - Assets/Other/Weapons/Other/prefabs/sword1.prefab.meta
+    - Assets/Other/Weapons/Other/prefabs/twoHandedAxe.prefab
+    - Assets/Other/Weapons/Other/prefabs/twoHandedAxe.prefab.meta
+    - Assets/Other/Weapons/Other/prefabs/twoHandedStaff.prefab
+    - Assets/Other/Weapons/Other/prefabs/twoHandedStaff.prefab.meta
+    - Assets/Other/Weapons/Other/scene1.unity
+    - Assets/Other/Weapons/Other/scene1.unity.meta
+    - Assets/Other/Weapons/Other/scene1Settings.lighting
+    - Assets/Other/Weapons/Other/scene1Settings.lighting.meta
+    - 
+    m_Values: 01010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101
+  RevisionSummary: Just a begining...
+  ChangesSearchValue: 
+  SelectedHistoryRevision: 
+  HistoryPageNumber: 0
+  TabIndex: 0
